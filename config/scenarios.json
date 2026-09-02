@@ -1,0 +1,68 @@
+[
+  {
+    "scenario_id": "baseline",
+    "scenario_name": "Baseline",
+    "severity_rank": 1,
+    "retail_runoff_multiplier": 1.0,
+    "wholesale_runoff_multiplier": 1.0,
+    "asset_inflow_multiplier": 1.0,
+    "hqla_haircut_addon": 0.0,
+    "rate_shock_bps": 0,
+    "asset_beta": 0.75,
+    "deposit_beta": 0.35,
+    "description": "Business-as-usual behavioural assumptions and no rate shock."
+  },
+  {
+    "scenario_id": "retail_run",
+    "scenario_name": "Retail Deposit Run",
+    "severity_rank": 2,
+    "retail_runoff_multiplier": 2.5,
+    "wholesale_runoff_multiplier": 1.15,
+    "asset_inflow_multiplier": 0.9,
+    "hqla_haircut_addon": 0.02,
+    "rate_shock_bps": 50,
+    "asset_beta": 0.72,
+    "deposit_beta": 0.42,
+    "description": "Elevated retail withdrawals, mild wholesale spill-over and delayed inflows."
+  },
+  {
+    "scenario_id": "wholesale_freeze",
+    "scenario_name": "Wholesale Funding Freeze",
+    "severity_rank": 3,
+    "retail_runoff_multiplier": 1.1,
+    "wholesale_runoff_multiplier": 3.0,
+    "asset_inflow_multiplier": 0.85,
+    "hqla_haircut_addon": 0.05,
+    "rate_shock_bps": 100,
+    "asset_beta": 0.7,
+    "deposit_beta": 0.48,
+    "description": "Wholesale renewal shock with weaker inflows and wider monetisation haircuts."
+  },
+  {
+    "scenario_id": "rate_up_200bp",
+    "scenario_name": "Rates +200 bps",
+    "severity_rank": 2,
+    "retail_runoff_multiplier": 1.0,
+    "wholesale_runoff_multiplier": 1.0,
+    "asset_inflow_multiplier": 1.0,
+    "hqla_haircut_addon": 0.01,
+    "rate_shock_bps": 200,
+    "asset_beta": 0.8,
+    "deposit_beta": 0.45,
+    "description": "Parallel upward rate shock used to isolate one-year NII sensitivity."
+  },
+  {
+    "scenario_id": "combined_severe",
+    "scenario_name": "Combined Severe",
+    "severity_rank": 4,
+    "retail_runoff_multiplier": 2.5,
+    "wholesale_runoff_multiplier": 3.0,
+    "asset_inflow_multiplier": 0.7,
+    "hqla_haircut_addon": 0.12,
+    "rate_shock_bps": 250,
+    "asset_beta": 0.65,
+    "deposit_beta": 0.58,
+    "description": "Joint retail and wholesale liquidity shock plus a +250 bps parallel rate move."
+  }
+]
+
