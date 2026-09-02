@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "liquidity-stress-testing"
+version = "1.0.0"
+description = "Synthetic treasury liquidity and interest-rate stress-testing analytics"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [{name = "Bheemesh Dhanunjaya"}]
+keywords = ["data-analytics", "banking", "liquidity", "treasury", "stress-testing", "sqlite"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
+addopts = "-q"
+
