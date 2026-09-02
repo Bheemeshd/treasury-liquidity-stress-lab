@@ -1,0 +1,901 @@
+position_id,as_of_date,side,desk,product,counterparty_segment,currency,principal_eur,contractual_rate_pct,rate_type,repricing_days,maturity_days,liquidity_treatment,hqla_level,encumbered,runoff_weight_pct,inflow_weight_pct
+POS-00001,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,17849601.35,5.0999,Variable,90,1559,Contractual,None,0,0.0,50.0
+POS-00002,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,18130239.46,4.2182,Variable,180,946,Contractual,None,0,0.0,50.0
+POS-00003,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,4962076.02,4.8173,Fixed,793,793,Contractual,None,0,0.0,50.0
+POS-00004,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,USD,687435.88,5.0389,Fixed,4054,4054,Contractual,None,0,0.0,50.0
+POS-00005,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,115216.25,2.2139,Fixed,3245,3245,Contractual,None,0,0.0,50.0
+POS-00006,2026-06-30,Asset,Treasury,Interbank placements,Financial institution,EUR,13786111.9,4.8739,Variable,30,104,Contractual,None,0,0.0,80.0
+POS-00007,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,4985335.6,3.7554,Variable,30,2139,Contractual,None,0,0.0,50.0
+POS-00008,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,4100029.09,4.0568,Variable,30,1366,Contractual,None,0,0.0,50.0
+POS-00009,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,3985879.78,3.2538,Fixed,2160,2160,Contractual,None,0,0.0,50.0
+POS-00010,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,506832.77,4.6122,Variable,180,2081,Contractual,None,0,0.0,50.0
+POS-00011,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,184718.17,5.9637,Fixed,937,937,Contractual,None,0,0.0,50.0
+POS-00012,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,538844.58,4.7417,Fixed,8668,8668,Contractual,None,0,0.0,50.0
+POS-00013,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,697443.95,3.715,Fixed,8118,8118,Contractual,None,0,0.0,50.0
+POS-00014,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,10114861.22,3.9956,Variable,90,291,Contractual,None,0,0.0,50.0
+POS-00015,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,248898.28,5.1042,Fixed,6639,6639,Contractual,None,0,0.0,50.0
+POS-00016,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,2595282.7,5.2801,Fixed,1619,1619,Contractual,None,0,0.0,50.0
+POS-00017,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,7294313.62,3.4207,Fixed,1591,1591,Contractual,None,0,0.0,50.0
+POS-00018,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,2033051.76,5.1705,Fixed,281,281,Contractual,None,0,0.0,50.0
+POS-00019,2026-06-30,Asset,Liquid Asset Buffer,Sovereign bonds,Sovereign,EUR,6761071.74,3.7614,Fixed,1596,1596,Liquidity buffer,Level 1,0,0.0,0.0
+POS-00020,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,135306.4,4.9449,Fixed,581,581,Contractual,None,0,0.0,50.0
+POS-00021,2026-06-30,Asset,Liquid Asset Buffer,Covered bonds,Financial institution,CHF,5503178.23,4.7137,Fixed,638,638,Liquidity buffer,Level 2B,0,0.0,0.0
+POS-00022,2026-06-30,Asset,Treasury,Cash & central-bank reserves,Central bank,EUR,6300090.38,2.2242,Variable,365,2,Liquidity buffer,Level 1,0,0.0,0.0
+POS-00023,2026-06-30,Asset,Treasury,Interbank placements,Financial institution,EUR,11855634.22,3.5191,Variable,365,130,Contractual,None,0,0.0,80.0
+POS-00024,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,8963908.97,6.6201,Fixed,2119,2119,Contractual,None,0,0.0,50.0
+POS-00025,2026-06-30,Asset,Liquid Asset Buffer,Sovereign bonds,Sovereign,USD,13103197.84,2.7254,Fixed,548,548,Liquidity buffer,Level 2A,0,0.0,0.0
+POS-00026,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,950541.06,6.7253,Fixed,1119,1119,Contractual,None,0,0.0,50.0
+POS-00027,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,22994389.17,6.1871,Variable,30,1420,Contractual,None,0,0.0,50.0
+POS-00028,2026-06-30,Asset,Treasury,Interbank placements,Financial institution,EUR,8643776.02,3.6824,Variable,30,30,Contractual,None,0,0.0,80.0
+POS-00029,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,2291108.0,3.2987,Fixed,1227,1227,Contractual,None,0,0.0,50.0
+POS-00030,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,282847.91,3.1018,Variable,30,944,Contractual,None,0,0.0,50.0
+POS-00031,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,5025369.99,3.8495,Fixed,2160,2160,Contractual,None,0,0.0,50.0
+POS-00032,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,604543.43,3.4619,Fixed,3984,3984,Contractual,None,0,0.0,50.0
+POS-00033,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,3335047.18,5.781,Fixed,2112,2112,Contractual,None,0,0.0,50.0
+POS-00034,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,601357.29,2.5759,Fixed,5358,5358,Contractual,None,0,0.0,50.0
+POS-00035,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,8696509.72,6.0602,Fixed,864,864,Contractual,None,0,0.0,50.0
+POS-00036,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,9608766.75,6.6182,Variable,90,492,Contractual,None,0,0.0,50.0
+POS-00037,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,CHF,319323.85,4.1665,Variable,365,2708,Contractual,None,0,0.0,50.0
+POS-00038,2026-06-30,Asset,Liquid Asset Buffer,Sovereign bonds,Sovereign,EUR,4586406.11,2.4279,Fixed,637,637,Liquidity buffer,Level 1,0,0.0,0.0
+POS-00039,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,11338829.24,4.3023,Variable,365,517,Contractual,None,0,0.0,50.0
+POS-00040,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,11499258.94,3.1204,Variable,90,985,Contractual,None,0,0.0,50.0
+POS-00041,2026-06-30,Asset,Treasury,Interbank placements,Financial institution,EUR,1742265.79,3.3679,Variable,30,43,Contractual,None,0,0.0,80.0
+POS-00042,2026-06-30,Asset,Treasury,Interbank placements,Financial institution,EUR,5455520.9,4.1741,Variable,180,40,Contractual,None,0,0.0,80.0
+POS-00043,2026-06-30,Asset,Liquid Asset Buffer,Sovereign bonds,Sovereign,EUR,9233625.41,2.8183,Fixed,1717,1717,Liquidity buffer,Level 2A,0,0.0,0.0
+POS-00044,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,4141064.1,5.2901,Variable,180,853,Contractual,None,0,0.0,50.0
+POS-00045,2026-06-30,Asset,Liquid Asset Buffer,Sovereign bonds,Sovereign,EUR,2455745.83,3.3671,Fixed,1390,1390,Liquidity buffer,Level 1,0,0.0,0.0
+POS-00046,2026-06-30,Asset,Treasury,Interbank placements,Financial institution,EUR,4752202.51,4.6454,Variable,30,13,Contractual,None,0,0.0,80.0
+POS-00047,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,4630448.97,5.4239,Variable,30,324,Contractual,None,0,0.0,50.0
+POS-00048,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,402759.91,4.5707,Variable,90,2159,Contractual,None,0,0.0,50.0
+POS-00049,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,19210770.17,3.3892,Variable,180,603,Contractual,None,0,0.0,50.0
+POS-00050,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,686940.05,3.4942,Fixed,2397,2397,Contractual,None,0,0.0,50.0
+POS-00051,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,USD,730665.81,3.9708,Fixed,2269,2269,Contractual,None,0,0.0,50.0
+POS-00052,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,154092.0,3.4304,Fixed,3858,3858,Contractual,None,0,0.0,50.0
+POS-00053,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,139751.39,3.2375,Variable,90,2941,Contractual,None,0,0.0,50.0
+POS-00054,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,17769001.98,4.2344,Variable,1,694,Contractual,None,0,0.0,50.0
+POS-00055,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,227357.04,3.0037,Fixed,5776,5776,Contractual,None,0,0.0,50.0
+POS-00056,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,3227621.11,5.9182,Variable,30,1028,Contractual,None,0,0.0,50.0
+POS-00057,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,714020.07,7.4764,Fixed,264,264,Contractual,None,0,0.0,50.0
+POS-00058,2026-06-30,Asset,Treasury,Cash & central-bank reserves,Central bank,EUR,9288775.07,2.3452,Variable,90,4,Liquidity buffer,Level 1,0,0.0,0.0
+POS-00059,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,3242990.22,4.0145,Variable,30,855,Contractual,None,0,0.0,50.0
+POS-00060,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,10573039.77,3.5692,Variable,30,1031,Contractual,None,0,0.0,50.0
+POS-00061,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,597456.06,5.4745,Fixed,6100,6100,Contractual,None,0,0.0,50.0
+POS-00062,2026-06-30,Asset,Treasury,Interbank placements,Financial institution,EUR,10598179.92,3.2499,Variable,180,151,Contractual,None,0,0.0,80.0
+POS-00063,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,USD,556008.05,4.8875,Variable,180,5905,Contractual,None,0,0.0,50.0
+POS-00064,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,237412.06,5.3071,Fixed,3992,3992,Contractual,None,0,0.0,50.0
+POS-00065,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,USD,20030222.18,6.3157,Variable,365,498,Contractual,None,0,0.0,50.0
+POS-00066,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,USD,21981675.38,6.0862,Variable,30,1645,Contractual,None,0,0.0,50.0
+POS-00067,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,582968.93,5.0562,Variable,180,2895,Contractual,None,0,0.0,50.0
+POS-00068,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,172088.51,4.6872,Fixed,4983,4983,Contractual,None,0,0.0,50.0
+POS-00069,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,6049768.84,5.049,Variable,365,378,Contractual,None,0,0.0,50.0
+POS-00070,2026-06-30,Asset,Treasury,Interbank placements,Financial institution,EUR,13938343.18,3.0973,Variable,1,160,Contractual,None,0,0.0,80.0
+POS-00071,2026-06-30,Asset,Liquid Asset Buffer,Sovereign bonds,Sovereign,EUR,7667758.29,3.8939,Fixed,1657,1657,Liquidity buffer,Level 1,0,0.0,0.0
+POS-00072,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,23699228.98,3.5271,Variable,365,910,Contractual,None,0,0.0,50.0
+POS-00073,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,GBP,24548707.45,3.6614,Variable,1,330,Contractual,None,0,0.0,50.0
+POS-00074,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,622555.68,3.0051,Fixed,7406,7406,Contractual,None,0,0.0,50.0
+POS-00075,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,2333253.09,6.0152,Variable,30,920,Contractual,None,0,0.0,50.0
+POS-00076,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,328032.35,4.6595,Fixed,4568,4568,Contractual,None,0,0.0,50.0
+POS-00077,2026-06-30,Asset,Liquid Asset Buffer,Sovereign bonds,Sovereign,EUR,4166803.75,3.262,Fixed,1328,1328,Liquidity buffer,Level 1,0,0.0,0.0
+POS-00078,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,4619500.26,5.3566,Fixed,1892,1892,Contractual,None,0,0.0,50.0
+POS-00079,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,CHF,2212148.94,6.2078,Variable,1,770,Contractual,None,0,0.0,50.0
+POS-00080,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,1473700.95,3.4025,Fixed,243,243,Contractual,None,0,0.0,50.0
+POS-00081,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,CHF,171805.55,5.2292,Variable,365,3883,Contractual,None,0,0.0,50.0
+POS-00082,2026-06-30,Asset,Liquid Asset Buffer,Sovereign bonds,Sovereign,EUR,4867409.4,4.0979,Fixed,1028,1028,Liquidity buffer,Level 1,1,0.0,0.0
+POS-00083,2026-06-30,Asset,Treasury,Interbank placements,Financial institution,EUR,6156943.26,3.3407,Variable,90,27,Contractual,None,0,0.0,80.0
+POS-00084,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,USD,677116.79,5.6373,Variable,365,3009,Contractual,None,0,0.0,50.0
+POS-00085,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,21389440.39,4.9196,Variable,30,1538,Contractual,None,0,0.0,50.0
+POS-00086,2026-06-30,Asset,Liquid Asset Buffer,Sovereign bonds,Sovereign,EUR,11663782.74,3.343,Fixed,1025,1025,Liquidity buffer,Level 1,0,0.0,0.0
+POS-00087,2026-06-30,Asset,Liquid Asset Buffer,Covered bonds,Financial institution,EUR,7337878.14,2.6803,Fixed,811,811,Liquidity buffer,Level 2B,1,0.0,0.0
+POS-00088,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,6858351.1,3.2258,Variable,90,1663,Contractual,None,0,0.0,50.0
+POS-00089,2026-06-30,Asset,Liquid Asset Buffer,Covered bonds,Financial institution,EUR,3385775.04,3.9921,Fixed,810,810,Liquidity buffer,Level 2A,1,0.0,0.0
+POS-00090,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,355348.12,3.1243,Variable,1,5169,Contractual,None,0,0.0,50.0
+POS-00091,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,9487607.26,5.0645,Variable,180,1690,Contractual,None,0,0.0,50.0
+POS-00092,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,796049.59,5.0037,Fixed,4467,4467,Contractual,None,0,0.0,50.0
+POS-00093,2026-06-30,Asset,Treasury,Interbank placements,Financial institution,EUR,2120821.53,4.0409,Variable,1,151,Contractual,None,0,0.0,80.0
+POS-00094,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,7210400.51,4.5366,Variable,180,313,Contractual,None,0,0.0,50.0
+POS-00095,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,2178889.21,4.6596,Variable,90,296,Contractual,None,0,0.0,50.0
+POS-00096,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,293906.6,2.3285,Fixed,7784,7784,Contractual,None,0,0.0,50.0
+POS-00097,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,11816018.27,6.5511,Variable,365,1693,Contractual,None,0,0.0,50.0
+POS-00098,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,2508887.27,6.8679,Fixed,1638,1638,Contractual,None,0,0.0,50.0
+POS-00099,2026-06-30,Asset,Liquid Asset Buffer,Sovereign bonds,Sovereign,EUR,3702989.8,2.7011,Fixed,1065,1065,Liquidity buffer,Level 1,0,0.0,0.0
+POS-00100,2026-06-30,Asset,Liquid Asset Buffer,Sovereign bonds,Sovereign,EUR,10786259.2,3.1235,Fixed,1036,1036,Liquidity buffer,Level 1,0,0.0,0.0
+POS-00101,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,23487032.42,3.0887,Variable,1,1045,Contractual,None,0,0.0,50.0
+POS-00102,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,1649464.14,3.5736,Variable,1,1666,Contractual,None,0,0.0,50.0
+POS-00103,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,9612704.89,3.5123,Variable,90,1775,Contractual,None,0,0.0,50.0
+POS-00104,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,14386173.8,5.2237,Variable,30,1396,Contractual,None,0,0.0,50.0
+POS-00105,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,4990812.94,4.3519,Fixed,556,556,Contractual,None,0,0.0,50.0
+POS-00106,2026-06-30,Asset,Treasury,Interbank placements,Financial institution,GBP,12775044.74,4.9341,Variable,90,109,Contractual,None,0,0.0,80.0
+POS-00107,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,21495147.74,3.365,Variable,1,1030,Contractual,None,0,0.0,50.0
+POS-00108,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,18534827.54,5.7231,Variable,90,551,Contractual,None,0,0.0,50.0
+POS-00109,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,1767371.16,7.2842,Variable,90,877,Contractual,None,0,0.0,50.0
+POS-00110,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,USD,3538718.47,5.6492,Variable,365,1528,Contractual,None,0,0.0,50.0
+POS-00111,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,4105768.93,6.7875,Variable,180,479,Contractual,None,0,0.0,50.0
+POS-00112,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,USD,764082.68,4.0258,Variable,30,572,Contractual,None,0,0.0,50.0
+POS-00113,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,CHF,786390.47,2.4684,Fixed,3967,3967,Contractual,None,0,0.0,50.0
+POS-00114,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,2418217.78,3.4808,Variable,180,1526,Contractual,None,0,0.0,50.0
+POS-00115,2026-06-30,Asset,Liquid Asset Buffer,Sovereign bonds,Sovereign,EUR,8378328.1,3.2831,Fixed,1655,1655,Liquidity buffer,Level 1,0,0.0,0.0
+POS-00116,2026-06-30,Asset,Commercial Banking,SME loans,SME,USD,8512535.54,5.8859,Fixed,1424,1424,Contractual,None,0,0.0,50.0
+POS-00117,2026-06-30,Asset,Treasury,Cash & central-bank reserves,Central bank,USD,3765391.81,2.844,Variable,1,7,Liquidity buffer,Level 1,0,0.0,0.0
+POS-00118,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,220849.25,3.6099,Fixed,7266,7266,Contractual,None,0,0.0,50.0
+POS-00119,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,15744930.4,6.7884,Variable,180,1465,Contractual,None,0,0.0,50.0
+POS-00120,2026-06-30,Asset,Liquid Asset Buffer,Covered bonds,Financial institution,EUR,4270241.69,4.0232,Fixed,1154,1154,Liquidity buffer,Level 2B,1,0.0,0.0
+POS-00121,2026-06-30,Asset,Liquid Asset Buffer,Covered bonds,Financial institution,EUR,4354552.88,2.5121,Fixed,290,290,Liquidity buffer,Level 2A,0,0.0,0.0
+POS-00122,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,24203333.08,3.7102,Variable,30,1294,Contractual,None,0,0.0,50.0
+POS-00123,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,3224261.6,5.3439,Variable,1,1069,Contractual,None,0,0.0,50.0
+POS-00124,2026-06-30,Asset,Commercial Banking,SME loans,SME,CHF,9813625.55,6.9642,Fixed,696,696,Contractual,None,0,0.0,50.0
+POS-00125,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,501328.09,5.2058,Fixed,1725,1725,Contractual,None,0,0.0,50.0
+POS-00126,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,22258222.69,5.2412,Variable,1,1105,Contractual,None,0,0.0,50.0
+POS-00127,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,1204049.81,4.1021,Variable,365,2111,Contractual,None,0,0.0,50.0
+POS-00128,2026-06-30,Asset,Liquid Asset Buffer,Covered bonds,Financial institution,EUR,4756569.56,2.6319,Fixed,643,643,Liquidity buffer,Level 2A,0,0.0,0.0
+POS-00129,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,314956.12,2.8735,Variable,180,3795,Contractual,None,0,0.0,50.0
+POS-00130,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,9111569.68,5.5014,Variable,365,1076,Contractual,None,0,0.0,50.0
+POS-00131,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,9224256.83,3.5468,Variable,90,1746,Contractual,None,0,0.0,50.0
+POS-00132,2026-06-30,Asset,Commercial Banking,SME loans,SME,USD,4603202.51,3.8395,Fixed,231,231,Contractual,None,0,0.0,50.0
+POS-00133,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,391110.78,4.2751,Variable,1,1715,Contractual,None,0,0.0,50.0
+POS-00134,2026-06-30,Asset,Treasury,Interbank placements,Financial institution,EUR,12329189.72,3.1206,Variable,30,80,Contractual,None,0,0.0,80.0
+POS-00135,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,26981488.21,3.2948,Variable,365,431,Contractual,None,0,0.0,50.0
+POS-00136,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,6867580.14,4.8002,Variable,90,647,Contractual,None,0,0.0,50.0
+POS-00137,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,4912342.38,6.0594,Variable,365,1298,Contractual,None,0,0.0,50.0
+POS-00138,2026-06-30,Asset,Liquid Asset Buffer,Sovereign bonds,Sovereign,CHF,6465129.82,2.1689,Fixed,32,32,Liquidity buffer,Level 1,0,0.0,0.0
+POS-00139,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,6374287.23,4.2179,Variable,180,833,Contractual,None,0,0.0,50.0
+POS-00140,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,583580.2,5.8108,Variable,90,5208,Contractual,None,0,0.0,50.0
+POS-00141,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,14920674.59,6.7474,Variable,365,58,Contractual,None,0,0.0,50.0
+POS-00142,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,USD,27841453.5,3.8018,Variable,365,206,Contractual,None,0,0.0,50.0
+POS-00143,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,6566776.17,6.6849,Variable,365,618,Contractual,None,0,0.0,50.0
+POS-00144,2026-06-30,Asset,Liquid Asset Buffer,Covered bonds,Financial institution,EUR,2977121.64,3.0574,Fixed,300,300,Liquidity buffer,Level 2A,0,0.0,0.0
+POS-00145,2026-06-30,Asset,Treasury,Interbank placements,Financial institution,EUR,1389360.79,4.7173,Variable,90,11,Contractual,None,0,0.0,80.0
+POS-00146,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,152242.8,5.3244,Variable,365,4254,Contractual,None,0,0.0,50.0
+POS-00147,2026-06-30,Asset,Commercial Banking,SME loans,SME,USD,7794777.21,3.5758,Variable,30,247,Contractual,None,0,0.0,50.0
+POS-00148,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,21950407.29,4.0548,Variable,30,1733,Contractual,None,0,0.0,50.0
+POS-00149,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,18687549.4,5.8013,Variable,90,659,Contractual,None,0,0.0,50.0
+POS-00150,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,21099974.59,3.2839,Variable,30,1020,Contractual,None,0,0.0,50.0
+POS-00151,2026-06-30,Asset,Treasury,Interbank placements,Financial institution,EUR,11645448.01,4.1634,Variable,1,102,Contractual,None,0,0.0,80.0
+POS-00152,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,USD,7292798.81,4.2932,Variable,365,1513,Contractual,None,0,0.0,50.0
+POS-00153,2026-06-30,Asset,Treasury,Cash & central-bank reserves,Central bank,EUR,8134227.55,2.651,Variable,90,2,Liquidity buffer,Level 1,0,0.0,0.0
+POS-00154,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,5921677.58,6.4964,Variable,365,187,Contractual,None,0,0.0,50.0
+POS-00155,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,3411114.57,7.0502,Fixed,984,984,Contractual,None,0,0.0,50.0
+POS-00156,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,GBP,18823563.47,6.1119,Variable,1,1475,Contractual,None,0,0.0,50.0
+POS-00157,2026-06-30,Asset,Commercial Banking,SME loans,SME,USD,7819347.88,4.1789,Fixed,429,429,Contractual,None,0,0.0,50.0
+POS-00158,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,674089.99,5.2053,Fixed,2057,2057,Contractual,None,0,0.0,50.0
+POS-00159,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,8343594.77,4.4178,Fixed,340,340,Contractual,None,0,0.0,50.0
+POS-00160,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,19866458.63,5.6424,Variable,30,517,Contractual,None,0,0.0,50.0
+POS-00161,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,2231128.37,6.517,Variable,30,459,Contractual,None,0,0.0,50.0
+POS-00162,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,7781797.63,4.3386,Fixed,1030,1030,Contractual,None,0,0.0,50.0
+POS-00163,2026-06-30,Asset,Liquid Asset Buffer,Sovereign bonds,Sovereign,EUR,13312611.37,2.4313,Fixed,1415,1415,Liquidity buffer,Level 1,0,0.0,0.0
+POS-00164,2026-06-30,Asset,Treasury,Interbank placements,Financial institution,EUR,2456717.88,4.4143,Variable,90,90,Contractual,None,0,0.0,80.0
+POS-00165,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,USD,8022071.17,3.4155,Variable,1,603,Contractual,None,0,0.0,50.0
+POS-00166,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,22046677.89,5.3317,Variable,30,364,Contractual,None,0,0.0,50.0
+POS-00167,2026-06-30,Asset,Liquid Asset Buffer,Sovereign bonds,Sovereign,EUR,2044333.04,2.1392,Fixed,632,632,Liquidity buffer,Level 1,0,0.0,0.0
+POS-00168,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,20109287.07,5.5363,Variable,180,501,Contractual,None,0,0.0,50.0
+POS-00169,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,1185201.64,3.4335,Fixed,325,325,Contractual,None,0,0.0,50.0
+POS-00170,2026-06-30,Asset,Treasury,Interbank placements,Financial institution,EUR,9676764.34,2.9398,Variable,30,146,Contractual,None,0,0.0,80.0
+POS-00171,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,19677390.05,6.3351,Variable,90,1058,Contractual,None,0,0.0,50.0
+POS-00172,2026-06-30,Asset,Liquid Asset Buffer,Sovereign bonds,Sovereign,USD,3155700.71,3.1364,Fixed,143,143,Liquidity buffer,Level 1,0,0.0,0.0
+POS-00173,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,27324891.9,6.1909,Variable,90,1412,Contractual,None,0,0.0,50.0
+POS-00174,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,3118092.86,5.0674,Variable,180,1134,Contractual,None,0,0.0,50.0
+POS-00175,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,20832145.61,5.0806,Variable,365,931,Contractual,None,0,0.0,50.0
+POS-00176,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,8201758.28,4.246,Variable,180,1873,Contractual,None,0,0.0,50.0
+POS-00177,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,14424339.25,5.3133,Variable,90,387,Contractual,None,0,0.0,50.0
+POS-00178,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,14012333.9,3.8464,Variable,30,1716,Contractual,None,0,0.0,50.0
+POS-00179,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,1377849.83,7.2044,Variable,365,1068,Contractual,None,0,0.0,50.0
+POS-00180,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,6079939.97,4.5407,Variable,1,252,Contractual,None,0,0.0,50.0
+POS-00181,2026-06-30,Asset,Commercial Banking,SME loans,SME,GBP,9731419.19,3.495,Fixed,962,962,Contractual,None,0,0.0,50.0
+POS-00182,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,809910.96,3.8169,Fixed,5846,5846,Contractual,None,0,0.0,50.0
+POS-00183,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,USD,19375373.5,3.3421,Variable,365,562,Contractual,None,0,0.0,50.0
+POS-00184,2026-06-30,Asset,Treasury,Interbank placements,Financial institution,EUR,2271369.21,3.6912,Variable,30,137,Contractual,None,0,0.0,80.0
+POS-00185,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,9241101.6,3.0614,Variable,90,1307,Contractual,None,0,0.0,50.0
+POS-00186,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,6005988.51,4.7981,Variable,1,1194,Contractual,None,0,0.0,50.0
+POS-00187,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,5344300.55,5.6875,Variable,365,1178,Contractual,None,0,0.0,50.0
+POS-00188,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,13269194.69,3.4399,Variable,180,1249,Contractual,None,0,0.0,50.0
+POS-00189,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,USD,767253.81,3.0514,Fixed,3729,3729,Contractual,None,0,0.0,50.0
+POS-00190,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,USD,227888.0,5.8285,Fixed,8029,8029,Contractual,None,0,0.0,50.0
+POS-00191,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,757072.54,5.2401,Fixed,2925,2925,Contractual,None,0,0.0,50.0
+POS-00192,2026-06-30,Asset,Liquid Asset Buffer,Sovereign bonds,Sovereign,EUR,5377385.43,4.1192,Fixed,619,619,Liquidity buffer,Level 1,0,0.0,0.0
+POS-00193,2026-06-30,Asset,Liquid Asset Buffer,Sovereign bonds,Sovereign,EUR,5138822.83,3.442,Fixed,1083,1083,Liquidity buffer,Level 1,0,0.0,0.0
+POS-00194,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,15323560.52,5.4952,Variable,90,534,Contractual,None,0,0.0,50.0
+POS-00195,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,9242568.38,4.9974,Fixed,580,580,Contractual,None,0,0.0,50.0
+POS-00196,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,165397.86,4.8741,Fixed,7114,7114,Contractual,None,0,0.0,50.0
+POS-00197,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,847603.42,4.5615,Variable,90,4219,Contractual,None,0,0.0,50.0
+POS-00198,2026-06-30,Asset,Liquid Asset Buffer,Sovereign bonds,Sovereign,EUR,7373827.18,2.838,Fixed,1022,1022,Liquidity buffer,Level 1,0,0.0,0.0
+POS-00199,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,13944616.79,3.0359,Variable,30,989,Contractual,None,0,0.0,50.0
+POS-00200,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,10542193.68,3.8883,Variable,1,563,Contractual,None,0,0.0,50.0
+POS-00201,2026-06-30,Asset,Treasury,Interbank placements,Financial institution,EUR,3469763.32,4.5828,Variable,30,35,Contractual,None,0,0.0,80.0
+POS-00202,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,677960.48,3.7279,Fixed,3855,3855,Contractual,None,0,0.0,50.0
+POS-00203,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,1120352.96,3.7184,Fixed,365,365,Contractual,None,0,0.0,50.0
+POS-00204,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,27962860.15,6.5545,Variable,365,497,Contractual,None,0,0.0,50.0
+POS-00205,2026-06-30,Asset,Liquid Asset Buffer,Sovereign bonds,Sovereign,CHF,6569533.24,2.9224,Fixed,1380,1380,Liquidity buffer,Level 2A,0,0.0,0.0
+POS-00206,2026-06-30,Asset,Liquid Asset Buffer,Sovereign bonds,Sovereign,EUR,12621295.19,3.4782,Fixed,1524,1524,Liquidity buffer,Level 1,0,0.0,0.0
+POS-00207,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,654434.95,4.3662,Variable,90,8128,Contractual,None,0,0.0,50.0
+POS-00208,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,1455612.5,3.5321,Fixed,1578,1578,Contractual,None,0,0.0,50.0
+POS-00209,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,697965.44,4.0671,Fixed,7977,7977,Contractual,None,0,0.0,50.0
+POS-00210,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,481358.88,5.8825,Fixed,6228,6228,Contractual,None,0,0.0,50.0
+POS-00211,2026-06-30,Asset,Treasury,Interbank placements,Financial institution,EUR,13304067.49,4.9579,Variable,180,14,Contractual,None,0,0.0,80.0
+POS-00212,2026-06-30,Asset,Liquid Asset Buffer,Sovereign bonds,Sovereign,EUR,11126684.73,3.511,Fixed,996,996,Liquidity buffer,Level 1,0,0.0,0.0
+POS-00213,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,714702.75,4.1685,Variable,30,1841,Contractual,None,0,0.0,50.0
+POS-00214,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,2155685.49,6.4382,Variable,365,2180,Contractual,None,0,0.0,50.0
+POS-00215,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,725327.85,5.9876,Variable,30,2411,Contractual,None,0,0.0,50.0
+POS-00216,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,CHF,149391.19,2.397,Fixed,3646,3646,Contractual,None,0,0.0,50.0
+POS-00217,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,7511310.01,3.3694,Variable,180,576,Contractual,None,0,0.0,50.0
+POS-00218,2026-06-30,Asset,Liquid Asset Buffer,Covered bonds,Financial institution,EUR,1647535.4,2.8529,Fixed,733,733,Liquidity buffer,Level 2B,0,0.0,0.0
+POS-00219,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,6672632.93,6.5354,Fixed,886,886,Contractual,None,0,0.0,50.0
+POS-00220,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,2474408.83,3.6818,Variable,1,821,Contractual,None,0,0.0,50.0
+POS-00221,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,8110057.77,5.8554,Fixed,1742,1742,Contractual,None,0,0.0,50.0
+POS-00222,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,273723.62,5.6839,Variable,90,4950,Contractual,None,0,0.0,50.0
+POS-00223,2026-06-30,Asset,Treasury,Interbank placements,Financial institution,EUR,6502083.31,2.8378,Variable,365,114,Contractual,None,0,0.0,80.0
+POS-00224,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,22975711.81,3.2973,Variable,90,1677,Contractual,None,0,0.0,50.0
+POS-00225,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,10133313.32,6.0994,Variable,1,989,Contractual,None,0,0.0,50.0
+POS-00226,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,20217823.44,5.9188,Variable,1,1525,Contractual,None,0,0.0,50.0
+POS-00227,2026-06-30,Asset,Commercial Banking,SME loans,SME,USD,2350604.69,4.8869,Fixed,714,714,Contractual,None,0,0.0,50.0
+POS-00228,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,125421.69,3.6745,Fixed,4941,4941,Contractual,None,0,0.0,50.0
+POS-00229,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,GBP,8927006.28,5.9876,Variable,90,1357,Contractual,None,0,0.0,50.0
+POS-00230,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,5997236.35,4.3545,Variable,180,915,Contractual,None,0,0.0,50.0
+POS-00231,2026-06-30,Asset,Liquid Asset Buffer,Covered bonds,Financial institution,CHF,8323934.97,3.487,Fixed,987,987,Liquidity buffer,Level 2A,1,0.0,0.0
+POS-00232,2026-06-30,Asset,Liquid Asset Buffer,Sovereign bonds,Sovereign,GBP,12580867.14,3.9779,Fixed,1148,1148,Liquidity buffer,Level 1,0,0.0,0.0
+POS-00233,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,4533476.15,7.1842,Variable,180,484,Contractual,None,0,0.0,50.0
+POS-00234,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,16826490.66,4.8048,Variable,30,560,Contractual,None,0,0.0,50.0
+POS-00235,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,7067884.18,4.8475,Fixed,781,781,Contractual,None,0,0.0,50.0
+POS-00236,2026-06-30,Asset,Liquid Asset Buffer,Sovereign bonds,Sovereign,EUR,3310939.68,1.8156,Fixed,1205,1205,Liquidity buffer,Level 1,0,0.0,0.0
+POS-00237,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,7669113.12,4.1569,Variable,1,1393,Contractual,None,0,0.0,50.0
+POS-00238,2026-06-30,Asset,Liquid Asset Buffer,Covered bonds,Financial institution,EUR,2666399.57,3.4688,Fixed,510,510,Liquidity buffer,Level 2B,0,0.0,0.0
+POS-00239,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,4605610.56,4.864,Fixed,714,714,Contractual,None,0,0.0,50.0
+POS-00240,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,20962493.65,5.4426,Variable,180,405,Contractual,None,0,0.0,50.0
+POS-00241,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,16677608.96,3.6259,Variable,90,782,Contractual,None,0,0.0,50.0
+POS-00242,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,19691547.11,4.3683,Variable,365,1191,Contractual,None,0,0.0,50.0
+POS-00243,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,379621.17,3.9504,Fixed,3918,3918,Contractual,None,0,0.0,50.0
+POS-00244,2026-06-30,Asset,Treasury,Interbank placements,Financial institution,EUR,2954431.55,2.9255,Variable,30,148,Contractual,None,0,0.0,80.0
+POS-00245,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,9664828.2,3.5559,Variable,30,1579,Contractual,None,0,0.0,50.0
+POS-00246,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,3424515.5,4.3226,Variable,30,918,Contractual,None,0,0.0,50.0
+POS-00247,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,7541073.54,6.3629,Variable,180,931,Contractual,None,0,0.0,50.0
+POS-00248,2026-06-30,Asset,Liquid Asset Buffer,Sovereign bonds,Sovereign,EUR,9930464.92,2.6122,Fixed,1567,1567,Liquidity buffer,Level 1,1,0.0,0.0
+POS-00249,2026-06-30,Asset,Treasury,Interbank placements,Financial institution,EUR,9468318.19,4.0246,Variable,1,73,Contractual,None,0,0.0,80.0
+POS-00250,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,9741909.86,3.4148,Variable,1,599,Contractual,None,0,0.0,50.0
+POS-00251,2026-06-30,Asset,Commercial Banking,SME loans,SME,USD,9326334.26,6.4846,Variable,30,2095,Contractual,None,0,0.0,50.0
+POS-00252,2026-06-30,Asset,Liquid Asset Buffer,Sovereign bonds,Sovereign,EUR,11794092.34,3.9413,Fixed,1719,1719,Liquidity buffer,Level 1,0,0.0,0.0
+POS-00253,2026-06-30,Asset,Liquid Asset Buffer,Sovereign bonds,Sovereign,EUR,3022249.09,2.9672,Fixed,1371,1371,Liquidity buffer,Level 1,0,0.0,0.0
+POS-00254,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,GBP,145532.26,4.9613,Fixed,6836,6836,Contractual,None,0,0.0,50.0
+POS-00255,2026-06-30,Asset,Treasury,Cash & central-bank reserves,Central bank,EUR,8758411.65,2.9402,Variable,90,5,Liquidity buffer,Level 1,0,0.0,0.0
+POS-00256,2026-06-30,Asset,Liquid Asset Buffer,Sovereign bonds,Sovereign,EUR,2245831.56,2.4048,Fixed,446,446,Liquidity buffer,Level 1,0,0.0,0.0
+POS-00257,2026-06-30,Asset,Commercial Banking,SME loans,SME,USD,3136703.29,6.9402,Variable,180,270,Contractual,None,0,0.0,50.0
+POS-00258,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,18381417.26,6.5547,Variable,30,317,Contractual,None,0,0.0,50.0
+POS-00259,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,704823.21,5.7815,Fixed,5686,5686,Contractual,None,0,0.0,50.0
+POS-00260,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,5103231.3,7.0434,Fixed,108,108,Contractual,None,0,0.0,50.0
+POS-00261,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,USD,22696528.72,5.9346,Variable,90,1204,Contractual,None,0,0.0,50.0
+POS-00262,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,21090299.36,4.7517,Variable,1,1700,Contractual,None,0,0.0,50.0
+POS-00263,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,1850444.89,5.7497,Variable,90,1429,Contractual,None,0,0.0,50.0
+POS-00264,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,707292.47,2.4829,Fixed,7579,7579,Contractual,None,0,0.0,50.0
+POS-00265,2026-06-30,Asset,Treasury,Cash & central-bank reserves,Central bank,EUR,11227838.13,2.3474,Variable,90,1,Liquidity buffer,Level 1,0,0.0,0.0
+POS-00266,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,USD,98383.5,2.6321,Variable,180,4060,Contractual,None,0,0.0,50.0
+POS-00267,2026-06-30,Asset,Commercial Banking,SME loans,SME,USD,866367.55,7.1841,Variable,1,819,Contractual,None,0,0.0,50.0
+POS-00268,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,GBP,256702.93,4.4346,Fixed,1761,1761,Contractual,None,0,0.0,50.0
+POS-00269,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,6865320.3,7.3188,Fixed,961,961,Contractual,None,0,0.0,50.0
+POS-00270,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,4103284.15,5.7758,Variable,30,1748,Contractual,None,0,0.0,50.0
+POS-00271,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,USD,792179.05,2.4455,Variable,90,3294,Contractual,None,0,0.0,50.0
+POS-00272,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,GBP,4018253.91,5.1748,Variable,30,1471,Contractual,None,0,0.0,50.0
+POS-00273,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,197208.28,4.4816,Fixed,2704,2704,Contractual,None,0,0.0,50.0
+POS-00274,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,GBP,11226858.47,4.4583,Variable,1,650,Contractual,None,0,0.0,50.0
+POS-00275,2026-06-30,Asset,Treasury,Interbank placements,Financial institution,EUR,9874401.5,4.4053,Variable,1,179,Contractual,None,0,0.0,80.0
+POS-00276,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,GBP,841643.17,4.9253,Variable,180,2310,Contractual,None,0,0.0,50.0
+POS-00277,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,18842671.98,5.0935,Variable,90,969,Contractual,None,0,0.0,50.0
+POS-00278,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,419792.14,5.8835,Fixed,7565,7565,Contractual,None,0,0.0,50.0
+POS-00279,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,15865516.22,5.3384,Variable,90,526,Contractual,None,0,0.0,50.0
+POS-00280,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,7694568.71,6.7064,Fixed,1268,1268,Contractual,None,0,0.0,50.0
+POS-00281,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,388550.46,4.6489,Fixed,3057,3057,Contractual,None,0,0.0,50.0
+POS-00282,2026-06-30,Asset,Treasury,Interbank placements,Financial institution,EUR,2813977.18,4.0615,Variable,365,114,Contractual,None,0,0.0,80.0
+POS-00283,2026-06-30,Asset,Liquid Asset Buffer,Sovereign bonds,Sovereign,EUR,2037505.18,2.2896,Fixed,1096,1096,Liquidity buffer,Level 1,0,0.0,0.0
+POS-00284,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,4873057.95,6.8785,Variable,30,1079,Contractual,None,0,0.0,50.0
+POS-00285,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,284281.55,5.3007,Variable,90,8761,Contractual,None,0,0.0,50.0
+POS-00286,2026-06-30,Asset,Treasury,Interbank placements,Financial institution,USD,1886337.56,4.86,Variable,90,123,Contractual,None,0,0.0,80.0
+POS-00287,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,27623863.5,3.2216,Variable,1,1480,Contractual,None,0,0.0,50.0
+POS-00288,2026-06-30,Asset,Treasury,Interbank placements,Financial institution,EUR,6883005.45,4.6489,Variable,30,5,Contractual,None,0,0.0,80.0
+POS-00289,2026-06-30,Asset,Liquid Asset Buffer,Sovereign bonds,Sovereign,EUR,13604391.71,2.9356,Fixed,417,417,Liquidity buffer,Level 1,0,0.0,0.0
+POS-00290,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,16778322.34,5.156,Variable,90,754,Contractual,None,0,0.0,50.0
+POS-00291,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,9107622.96,7.3239,Fixed,1935,1935,Contractual,None,0,0.0,50.0
+POS-00292,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,282953.15,4.828,Variable,90,3303,Contractual,None,0,0.0,50.0
+POS-00293,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,GBP,596606.84,4.0215,Fixed,8710,8710,Contractual,None,0,0.0,50.0
+POS-00294,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,279513.48,3.6952,Variable,90,2268,Contractual,None,0,0.0,50.0
+POS-00295,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,7796788.25,3.6031,Variable,90,1034,Contractual,None,0,0.0,50.0
+POS-00296,2026-06-30,Asset,Commercial Banking,SME loans,SME,GBP,5694376.54,6.0926,Variable,180,648,Contractual,None,0,0.0,50.0
+POS-00297,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,USD,4851010.62,3.8161,Variable,1,1059,Contractual,None,0,0.0,50.0
+POS-00298,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,CHF,6166079.18,4.0419,Variable,1,832,Contractual,None,0,0.0,50.0
+POS-00299,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,7966639.04,5.084,Variable,180,1342,Contractual,None,0,0.0,50.0
+POS-00300,2026-06-30,Asset,Commercial Banking,SME loans,SME,USD,8196712.88,6.2602,Fixed,1339,1339,Contractual,None,0,0.0,50.0
+POS-00301,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,142453.22,3.3793,Variable,180,8909,Contractual,None,0,0.0,50.0
+POS-00302,2026-06-30,Asset,Treasury,Cash & central-bank reserves,Central bank,USD,10768708.88,2.5165,Variable,30,2,Liquidity buffer,Level 1,0,0.0,0.0
+POS-00303,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,8940999.01,6.9171,Variable,1,318,Contractual,None,0,0.0,50.0
+POS-00304,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,6468394.01,3.4481,Variable,365,287,Contractual,None,0,0.0,50.0
+POS-00305,2026-06-30,Asset,Commercial Banking,SME loans,SME,USD,5678993.18,3.2967,Fixed,1540,1540,Contractual,None,0,0.0,50.0
+POS-00306,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,16345016.68,5.9208,Variable,180,249,Contractual,None,0,0.0,50.0
+POS-00307,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,24931662.13,5.1458,Variable,180,298,Contractual,None,0,0.0,50.0
+POS-00308,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,143573.2,2.607,Variable,30,5562,Contractual,None,0,0.0,50.0
+POS-00309,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,4774473.85,3.5977,Fixed,1322,1322,Contractual,None,0,0.0,50.0
+POS-00310,2026-06-30,Asset,Treasury,Cash & central-bank reserves,Central bank,EUR,17355036.96,1.9988,Variable,365,6,Liquidity buffer,Level 1,0,0.0,0.0
+POS-00311,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,396748.83,2.6012,Fixed,750,750,Contractual,None,0,0.0,50.0
+POS-00312,2026-06-30,Asset,Liquid Asset Buffer,Sovereign bonds,Sovereign,EUR,5128100.12,4.0462,Fixed,405,405,Liquidity buffer,Level 1,0,0.0,0.0
+POS-00313,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,10207321.31,3.7079,Variable,30,389,Contractual,None,0,0.0,50.0
+POS-00314,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,8642543.06,5.1017,Fixed,1731,1731,Contractual,None,0,0.0,50.0
+POS-00315,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,19740523.76,3.2328,Variable,180,1485,Contractual,None,0,0.0,50.0
+POS-00316,2026-06-30,Asset,Commercial Banking,SME loans,SME,USD,3305477.8,4.4567,Variable,90,2053,Contractual,None,0,0.0,50.0
+POS-00317,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,8446675.68,6.5173,Fixed,1649,1649,Contractual,None,0,0.0,50.0
+POS-00318,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,GBP,7360414.38,6.8202,Variable,90,1788,Contractual,None,0,0.0,50.0
+POS-00319,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,CHF,98603.24,5.8835,Variable,90,4578,Contractual,None,0,0.0,50.0
+POS-00320,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,15116806.87,5.5884,Variable,1,1627,Contractual,None,0,0.0,50.0
+POS-00321,2026-06-30,Asset,Liquid Asset Buffer,Sovereign bonds,Sovereign,EUR,11416769.93,3.5026,Fixed,1425,1425,Liquidity buffer,Level 2A,0,0.0,0.0
+POS-00322,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,USD,486260.67,3.7304,Fixed,5342,5342,Contractual,None,0,0.0,50.0
+POS-00323,2026-06-30,Asset,Treasury,Interbank placements,Financial institution,GBP,3123337.41,4.7841,Variable,365,10,Contractual,None,0,0.0,80.0
+POS-00324,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,527385.83,4.5923,Fixed,4563,4563,Contractual,None,0,0.0,50.0
+POS-00325,2026-06-30,Asset,Treasury,Cash & central-bank reserves,Central bank,USD,13021473.27,1.9847,Variable,90,1,Liquidity buffer,Level 1,0,0.0,0.0
+POS-00326,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,170434.11,4.0286,Variable,30,5666,Contractual,None,0,0.0,50.0
+POS-00327,2026-06-30,Asset,Liquid Asset Buffer,Sovereign bonds,Sovereign,EUR,4968843.23,1.8408,Fixed,1631,1631,Liquidity buffer,Level 2A,0,0.0,0.0
+POS-00328,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,3939507.65,4.9601,Fixed,1149,1149,Contractual,None,0,0.0,50.0
+POS-00329,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,453027.51,2.9665,Variable,30,7082,Contractual,None,0,0.0,50.0
+POS-00330,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,9099529.05,5.4465,Variable,180,604,Contractual,None,0,0.0,50.0
+POS-00331,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,6114339.48,5.9673,Fixed,168,168,Contractual,None,0,0.0,50.0
+POS-00332,2026-06-30,Asset,Treasury,Interbank placements,Financial institution,EUR,13176770.43,3.2935,Variable,30,68,Contractual,None,0,0.0,80.0
+POS-00333,2026-06-30,Asset,Treasury,Interbank placements,Financial institution,EUR,13971138.9,4.5313,Variable,365,161,Contractual,None,0,0.0,80.0
+POS-00334,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,23304086.46,3.8987,Variable,1,1687,Contractual,None,0,0.0,50.0
+POS-00335,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,282789.43,3.7078,Fixed,6074,6074,Contractual,None,0,0.0,50.0
+POS-00336,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,9216198.55,3.6991,Variable,1,1635,Contractual,None,0,0.0,50.0
+POS-00337,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,USD,806802.14,2.2735,Variable,90,5460,Contractual,None,0,0.0,50.0
+POS-00338,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,2108587.87,3.9247,Variable,180,994,Contractual,None,0,0.0,50.0
+POS-00339,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,12424488.72,5.7028,Variable,180,315,Contractual,None,0,0.0,50.0
+POS-00340,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,USD,11048675.57,3.2606,Variable,90,731,Contractual,None,0,0.0,50.0
+POS-00341,2026-06-30,Asset,Liquid Asset Buffer,Sovereign bonds,Sovereign,CHF,7968287.46,4.1978,Fixed,1147,1147,Liquidity buffer,Level 1,0,0.0,0.0
+POS-00342,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,13799805.96,5.434,Variable,180,549,Contractual,None,0,0.0,50.0
+POS-00343,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,607402.47,3.6076,Fixed,4633,4633,Contractual,None,0,0.0,50.0
+POS-00344,2026-06-30,Asset,Treasury,Interbank placements,Financial institution,EUR,11262379.24,4.9982,Variable,90,164,Contractual,None,0,0.0,80.0
+POS-00345,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,656719.89,3.3397,Fixed,5130,5130,Contractual,None,0,0.0,50.0
+POS-00346,2026-06-30,Asset,Treasury,Interbank placements,Financial institution,EUR,4672687.51,3.6603,Variable,90,18,Contractual,None,0,0.0,80.0
+POS-00347,2026-06-30,Asset,Treasury,Interbank placements,Financial institution,EUR,3857375.11,3.194,Variable,365,21,Contractual,None,0,0.0,80.0
+POS-00348,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,4928729.6,6.4206,Variable,90,1368,Contractual,None,0,0.0,50.0
+POS-00349,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,548091.23,5.3364,Fixed,2452,2452,Contractual,None,0,0.0,50.0
+POS-00350,2026-06-30,Asset,Commercial Banking,SME loans,SME,GBP,8330143.63,7.411,Fixed,843,843,Contractual,None,0,0.0,50.0
+POS-00351,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,4449759.68,5.3947,Variable,365,1585,Contractual,None,0,0.0,50.0
+POS-00352,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,14917691.07,5.0314,Variable,365,1667,Contractual,None,0,0.0,50.0
+POS-00353,2026-06-30,Asset,Liquid Asset Buffer,Sovereign bonds,Sovereign,EUR,3715503.93,2.8599,Fixed,1288,1288,Liquidity buffer,Level 1,0,0.0,0.0
+POS-00354,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,17355307.38,3.1444,Variable,180,698,Contractual,None,0,0.0,50.0
+POS-00355,2026-06-30,Asset,Treasury,Interbank placements,Financial institution,EUR,6332531.45,4.4877,Variable,90,85,Contractual,None,0,0.0,80.0
+POS-00356,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,828228.5,2.6809,Fixed,8188,8188,Contractual,None,0,0.0,50.0
+POS-00357,2026-06-30,Asset,Treasury,Interbank placements,Financial institution,EUR,9725371.65,3.9914,Variable,180,173,Contractual,None,0,0.0,80.0
+POS-00358,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,6396046.73,4.3553,Fixed,970,970,Contractual,None,0,0.0,50.0
+POS-00359,2026-06-30,Asset,Liquid Asset Buffer,Sovereign bonds,Sovereign,EUR,5370395.12,2.8904,Fixed,735,735,Liquidity buffer,Level 1,0,0.0,0.0
+POS-00360,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,USD,377209.9,5.6396,Fixed,5655,5655,Contractual,None,0,0.0,50.0
+POS-00361,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,6062968.57,5.6288,Fixed,1076,1076,Contractual,None,0,0.0,50.0
+POS-00362,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,22940082.41,3.2774,Variable,30,318,Contractual,None,0,0.0,50.0
+POS-00363,2026-06-30,Asset,Liquid Asset Buffer,Sovereign bonds,Sovereign,EUR,13028660.16,2.2767,Fixed,1284,1284,Liquidity buffer,Level 1,0,0.0,0.0
+POS-00364,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,506279.68,3.2636,Fixed,3118,3118,Contractual,None,0,0.0,50.0
+POS-00365,2026-06-30,Asset,Treasury,Cash & central-bank reserves,Central bank,USD,5252193.25,2.6706,Variable,1,4,Liquidity buffer,Level 1,0,0.0,0.0
+POS-00366,2026-06-30,Asset,Liquid Asset Buffer,Sovereign bonds,Sovereign,EUR,10283330.26,2.7095,Fixed,595,595,Liquidity buffer,Level 2A,0,0.0,0.0
+POS-00367,2026-06-30,Asset,Treasury,Interbank placements,Financial institution,EUR,12206880.57,3.0977,Variable,90,87,Contractual,None,0,0.0,80.0
+POS-00368,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,18114444.65,3.6223,Variable,365,804,Contractual,None,0,0.0,50.0
+POS-00369,2026-06-30,Asset,Treasury,Interbank placements,Financial institution,EUR,3225895.35,4.7085,Variable,30,43,Contractual,None,0,0.0,80.0
+POS-00370,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,3891008.84,7.286,Fixed,622,622,Contractual,None,0,0.0,50.0
+POS-00371,2026-06-30,Asset,Liquid Asset Buffer,Sovereign bonds,Sovereign,EUR,5730203.69,2.9328,Fixed,1806,1806,Liquidity buffer,Level 1,0,0.0,0.0
+POS-00372,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,USD,20249717.57,3.3724,Variable,365,503,Contractual,None,0,0.0,50.0
+POS-00373,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,USD,603911.95,2.7545,Variable,365,4331,Contractual,None,0,0.0,50.0
+POS-00374,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,16984754.46,5.0189,Variable,90,1180,Contractual,None,0,0.0,50.0
+POS-00375,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,5956414.01,4.6409,Fixed,1459,1459,Contractual,None,0,0.0,50.0
+POS-00376,2026-06-30,Asset,Treasury,Interbank placements,Financial institution,EUR,12256426.57,4.9174,Variable,90,126,Contractual,None,0,0.0,80.0
+POS-00377,2026-06-30,Asset,Liquid Asset Buffer,Covered bonds,Financial institution,EUR,7425211.24,3.8179,Fixed,796,796,Liquidity buffer,Level 2A,0,0.0,0.0
+POS-00378,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,10699045.61,4.2816,Variable,180,124,Contractual,None,0,0.0,50.0
+POS-00379,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,9262036.97,4.5907,Variable,30,328,Contractual,None,0,0.0,50.0
+POS-00380,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,USD,585807.56,4.2479,Variable,180,5809,Contractual,None,0,0.0,50.0
+POS-00381,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,23171965.43,3.2628,Variable,30,1654,Contractual,None,0,0.0,50.0
+POS-00382,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,7751873.24,5.8342,Variable,1,1843,Contractual,None,0,0.0,50.0
+POS-00383,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,USD,129338.4,2.3406,Fixed,6448,6448,Contractual,None,0,0.0,50.0
+POS-00384,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,15740207.96,4.3632,Variable,180,390,Contractual,None,0,0.0,50.0
+POS-00385,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,1874579.98,5.6939,Variable,1,1716,Contractual,None,0,0.0,50.0
+POS-00386,2026-06-30,Asset,Treasury,Interbank placements,Financial institution,EUR,13545774.93,4.2028,Variable,180,100,Contractual,None,0,0.0,80.0
+POS-00387,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,217646.02,3.692,Fixed,3902,3902,Contractual,None,0,0.0,50.0
+POS-00388,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,391400.38,3.3855,Fixed,3910,3910,Contractual,None,0,0.0,50.0
+POS-00389,2026-06-30,Asset,Liquid Asset Buffer,Sovereign bonds,Sovereign,EUR,11471702.32,2.462,Fixed,288,288,Liquidity buffer,Level 1,0,0.0,0.0
+POS-00390,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,770023.15,4.3974,Fixed,3637,3637,Contractual,None,0,0.0,50.0
+POS-00391,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,346199.87,4.3781,Variable,30,8122,Contractual,None,0,0.0,50.0
+POS-00392,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,3094511.62,3.2911,Variable,1,1924,Contractual,None,0,0.0,50.0
+POS-00393,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,194975.71,5.3046,Fixed,6927,6927,Contractual,None,0,0.0,50.0
+POS-00394,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,6634306.18,3.0914,Variable,30,191,Contractual,None,0,0.0,50.0
+POS-00395,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,7307318.6,5.7952,Variable,30,1413,Contractual,None,0,0.0,50.0
+POS-00396,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,5449647.36,5.17,Variable,1,1332,Contractual,None,0,0.0,50.0
+POS-00397,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,6308932.05,5.9242,Variable,30,767,Contractual,None,0,0.0,50.0
+POS-00398,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,181566.97,6.077,Variable,1,1836,Contractual,None,0,0.0,50.0
+POS-00399,2026-06-30,Asset,Treasury,Interbank placements,Financial institution,USD,8616273.89,3.6446,Variable,365,116,Contractual,None,0,0.0,80.0
+POS-00400,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,15959399.25,6.3881,Variable,365,805,Contractual,None,0,0.0,50.0
+POS-00401,2026-06-30,Asset,Liquid Asset Buffer,Sovereign bonds,Sovereign,EUR,12623659.55,2.4083,Fixed,1462,1462,Liquidity buffer,Level 2A,0,0.0,0.0
+POS-00402,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,22937772.52,6.1687,Variable,365,1192,Contractual,None,0,0.0,50.0
+POS-00403,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,15510850.74,4.5183,Variable,1,1491,Contractual,None,0,0.0,50.0
+POS-00404,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,3263963.04,6.5975,Fixed,1193,1193,Contractual,None,0,0.0,50.0
+POS-00405,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,9569325.57,5.7711,Fixed,110,110,Contractual,None,0,0.0,50.0
+POS-00406,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,429899.59,5.1589,Variable,365,8484,Contractual,None,0,0.0,50.0
+POS-00407,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,775809.15,4.1529,Variable,1,7001,Contractual,None,0,0.0,50.0
+POS-00408,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,USD,4613135.11,3.6372,Variable,180,1021,Contractual,None,0,0.0,50.0
+POS-00409,2026-06-30,Asset,Commercial Banking,SME loans,SME,GBP,3155733.41,4.9744,Fixed,581,581,Contractual,None,0,0.0,50.0
+POS-00410,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,GBP,21235758.79,5.8059,Variable,90,280,Contractual,None,0,0.0,50.0
+POS-00411,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,8374840.3,3.6022,Variable,180,2141,Contractual,None,0,0.0,50.0
+POS-00412,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,5307040.12,5.4293,Variable,180,852,Contractual,None,0,0.0,50.0
+POS-00413,2026-06-30,Asset,Treasury,Cash & central-bank reserves,Central bank,USD,6923888.58,2.3744,Variable,30,2,Liquidity buffer,Level 1,0,0.0,0.0
+POS-00414,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,17547447.34,3.0113,Variable,30,38,Contractual,None,0,0.0,50.0
+POS-00415,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,270955.87,4.0271,Variable,180,5465,Contractual,None,0,0.0,50.0
+POS-00416,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,775198.18,2.2787,Fixed,5082,5082,Contractual,None,0,0.0,50.0
+POS-00417,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,9086212.43,6.3381,Variable,1,1787,Contractual,None,0,0.0,50.0
+POS-00418,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,USD,3209600.92,3.1439,Variable,365,1415,Contractual,None,0,0.0,50.0
+POS-00419,2026-06-30,Asset,Treasury,Cash & central-bank reserves,Central bank,EUR,10172061.58,2.5423,Variable,1,1,Liquidity buffer,Level 1,0,0.0,0.0
+POS-00420,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,9895850.51,4.7219,Fixed,1478,1478,Contractual,None,0,0.0,50.0
+POS-00421,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,586114.02,2.8128,Variable,180,5378,Contractual,None,0,0.0,50.0
+POS-00422,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,23454359.81,3.6338,Variable,30,1402,Contractual,None,0,0.0,50.0
+POS-00423,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,8541683.46,6.7287,Fixed,1516,1516,Contractual,None,0,0.0,50.0
+POS-00424,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,397185.43,5.2635,Fixed,7585,7585,Contractual,None,0,0.0,50.0
+POS-00425,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,663765.41,3.6685,Fixed,1254,1254,Contractual,None,0,0.0,50.0
+POS-00426,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,747687.99,5.0764,Fixed,2299,2299,Contractual,None,0,0.0,50.0
+POS-00427,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,542269.47,2.863,Fixed,4256,4256,Contractual,None,0,0.0,50.0
+POS-00428,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,104798.97,2.7916,Variable,180,3910,Contractual,None,0,0.0,50.0
+POS-00429,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,27624186.47,3.7007,Variable,90,1530,Contractual,None,0,0.0,50.0
+POS-00430,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,3185088.69,5.0995,Variable,30,497,Contractual,None,0,0.0,50.0
+POS-00431,2026-06-30,Asset,Liquid Asset Buffer,Covered bonds,Financial institution,GBP,3987705.0,4.3492,Fixed,635,635,Liquidity buffer,Level 2A,0,0.0,0.0
+POS-00432,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,4263165.92,5.7976,Variable,90,133,Contractual,None,0,0.0,50.0
+POS-00433,2026-06-30,Asset,Treasury,Interbank placements,Financial institution,EUR,4875682.93,3.9529,Variable,90,35,Contractual,None,0,0.0,80.0
+POS-00434,2026-06-30,Asset,Commercial Banking,SME loans,SME,CHF,665871.68,5.6536,Fixed,1582,1582,Contractual,None,0,0.0,50.0
+POS-00435,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,GBP,26188388.54,4.5251,Variable,1,404,Contractual,None,0,0.0,50.0
+POS-00436,2026-06-30,Asset,Treasury,Interbank placements,Financial institution,EUR,3434824.98,4.7271,Variable,365,173,Contractual,None,0,0.0,80.0
+POS-00437,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,578106.06,2.3744,Fixed,4020,4020,Contractual,None,0,0.0,50.0
+POS-00438,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,428043.75,3.0745,Fixed,7074,7074,Contractual,None,0,0.0,50.0
+POS-00439,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,394976.04,4.2728,Variable,180,7366,Contractual,None,0,0.0,50.0
+POS-00440,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,24822618.14,5.5871,Variable,90,1103,Contractual,None,0,0.0,50.0
+POS-00441,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,USD,22987491.86,3.3727,Variable,90,1247,Contractual,None,0,0.0,50.0
+POS-00442,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,3284989.26,3.7587,Variable,365,1127,Contractual,None,0,0.0,50.0
+POS-00443,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,280775.59,3.9061,Variable,90,3539,Contractual,None,0,0.0,50.0
+POS-00444,2026-06-30,Asset,Liquid Asset Buffer,Sovereign bonds,Sovereign,EUR,2171992.15,2.231,Fixed,1624,1624,Liquidity buffer,Level 1,0,0.0,0.0
+POS-00445,2026-06-30,Asset,Treasury,Interbank placements,Financial institution,EUR,4514302.25,4.0181,Variable,90,16,Contractual,None,0,0.0,80.0
+POS-00446,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,8630277.55,5.8507,Fixed,1500,1500,Contractual,None,0,0.0,50.0
+POS-00447,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,779098.28,3.3668,Fixed,2708,2708,Contractual,None,0,0.0,50.0
+POS-00448,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,15393886.88,5.6779,Variable,365,1336,Contractual,None,0,0.0,50.0
+POS-00449,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,193984.15,5.0121,Variable,365,5340,Contractual,None,0,0.0,50.0
+POS-00450,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,591847.04,3.8553,Fixed,3297,3297,Contractual,None,0,0.0,50.0
+POS-00451,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,8786070.88,4.7177,Variable,365,743,Contractual,None,0,0.0,50.0
+POS-00452,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,675816.27,3.4058,Fixed,4953,4953,Contractual,None,0,0.0,50.0
+POS-00453,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,7719100.51,3.1966,Variable,180,289,Contractual,None,0,0.0,50.0
+POS-00454,2026-06-30,Asset,Commercial Banking,SME loans,SME,USD,1654344.73,5.6384,Fixed,823,823,Contractual,None,0,0.0,50.0
+POS-00455,2026-06-30,Asset,Treasury,Interbank placements,Financial institution,EUR,11182448.98,3.7433,Variable,180,34,Contractual,None,0,0.0,80.0
+POS-00456,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,CHF,23360238.77,6.8862,Variable,180,643,Contractual,None,0,0.0,50.0
+POS-00457,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,23508156.98,4.2908,Variable,365,738,Contractual,None,0,0.0,50.0
+POS-00458,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,24049482.52,3.6495,Variable,180,541,Contractual,None,0,0.0,50.0
+POS-00459,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,4898979.42,4.98,Fixed,1271,1271,Contractual,None,0,0.0,50.0
+POS-00460,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,727316.4,4.5763,Fixed,3396,3396,Contractual,None,0,0.0,50.0
+POS-00461,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,4190402.76,3.6501,Variable,30,964,Contractual,None,0,0.0,50.0
+POS-00462,2026-06-30,Asset,Treasury,Interbank placements,Financial institution,EUR,8155865.52,4.1409,Variable,180,135,Contractual,None,0,0.0,80.0
+POS-00463,2026-06-30,Asset,Liquid Asset Buffer,Sovereign bonds,Sovereign,EUR,11008869.67,3.147,Fixed,1014,1014,Liquidity buffer,Level 1,0,0.0,0.0
+POS-00464,2026-06-30,Asset,Treasury,Cash & central-bank reserves,Central bank,EUR,15125282.21,2.2798,Variable,1,3,Liquidity buffer,Level 1,0,0.0,0.0
+POS-00465,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,25864579.11,4.921,Variable,30,45,Contractual,None,0,0.0,50.0
+POS-00466,2026-06-30,Asset,Liquid Asset Buffer,Sovereign bonds,Sovereign,GBP,7223437.31,4.1645,Fixed,1708,1708,Liquidity buffer,Level 1,1,0.0,0.0
+POS-00467,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,CHF,13587080.54,5.0511,Variable,30,111,Contractual,None,0,0.0,50.0
+POS-00468,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,1183248.24,7.2292,Fixed,1427,1427,Contractual,None,0,0.0,50.0
+POS-00469,2026-06-30,Asset,Liquid Asset Buffer,Sovereign bonds,Sovereign,EUR,7934132.05,2.1898,Fixed,1517,1517,Liquidity buffer,Level 1,0,0.0,0.0
+POS-00470,2026-06-30,Asset,Liquid Asset Buffer,Sovereign bonds,Sovereign,EUR,10502086.86,2.6473,Fixed,1772,1772,Liquidity buffer,Level 1,0,0.0,0.0
+POS-00471,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,8332042.87,5.7191,Variable,90,659,Contractual,None,0,0.0,50.0
+POS-00472,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,760251.78,5.583,Variable,365,6065,Contractual,None,0,0.0,50.0
+POS-00473,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,321846.82,2.6434,Variable,365,5016,Contractual,None,0,0.0,50.0
+POS-00474,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,4369954.9,3.9263,Variable,90,1632,Contractual,None,0,0.0,50.0
+POS-00475,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,19414777.08,5.6091,Variable,1,1653,Contractual,None,0,0.0,50.0
+POS-00476,2026-06-30,Asset,Treasury,Cash & central-bank reserves,Central bank,EUR,16443933.85,2.5724,Variable,365,5,Liquidity buffer,Level 1,0,0.0,0.0
+POS-00477,2026-06-30,Asset,Commercial Banking,SME loans,SME,EUR,6513259.32,7.313,Fixed,2125,2125,Contractual,None,0,0.0,50.0
+POS-00478,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,CHF,9023458.5,5.2075,Variable,30,476,Contractual,None,0,0.0,50.0
+POS-00479,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,8222199.3,6.0205,Variable,365,103,Contractual,None,0,0.0,50.0
+POS-00480,2026-06-30,Asset,Retail Banking,Retail mortgages,Retail,EUR,713581.93,3.5276,Fixed,8633,8633,Contractual,None,0,0.0,50.0
+POS-00481,2026-06-30,Asset,Treasury,Interbank placements,Financial institution,EUR,3772361.2,3.3343,Variable,90,84,Contractual,None,0,0.0,80.0
+POS-00482,2026-06-30,Asset,Liquid Asset Buffer,Sovereign bonds,Sovereign,CHF,6173127.47,2.5609,Fixed,832,832,Liquidity buffer,Level 1,0,0.0,0.0
+POS-00483,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,20911209.48,6.3478,Variable,1,694,Contractual,None,0,0.0,50.0
+POS-00484,2026-06-30,Asset,Treasury,Interbank placements,Financial institution,EUR,4071766.34,4.3578,Variable,30,76,Contractual,None,0,0.0,80.0
+POS-00485,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,2969499.05,5.1494,Variable,365,1372,Contractual,None,0,0.0,50.0
+POS-00486,2026-06-30,Asset,Corporate Banking,Corporate loans,Corporate,EUR,13906981.95,3.6194,Variable,1,1765,Contractual,None,0,0.0,50.0
+POS-00487,2026-06-30,Liability,Commercial Banking,SME operational deposits,SME,EUR,2307686.49,0.3187,Variable,30,1,Non-maturity,None,0,10.0,0.0
+POS-00488,2026-06-30,Liability,Retail Banking,Retail term deposits,Retail,EUR,875260.63,1.6972,Fixed,84,84,Contractual,None,0,100.0,0.0
+POS-00489,2026-06-30,Liability,Retail Banking,Retail term deposits,Retail,EUR,1391318.48,1.7007,Fixed,506,506,Contractual,None,0,100.0,0.0
+POS-00490,2026-06-30,Liability,Commercial Banking,SME operational deposits,SME,EUR,3379553.08,1.0645,Variable,90,1,Non-maturity,None,0,10.0,0.0
+POS-00491,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,1187930.55,0.6305,Variable,30,1,Non-maturity,None,0,5.0,0.0
+POS-00492,2026-06-30,Liability,Corporate Banking,Corporate deposits,Corporate,EUR,5902769.59,2.1436,Variable,1,1,Non-maturity,None,0,25.0,0.0
+POS-00493,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,295148.33,0.6337,Variable,1,1,Non-maturity,None,0,5.0,0.0
+POS-00494,2026-06-30,Liability,Treasury,Wholesale funding,Wholesale,EUR,4569567.0,3.3765,Fixed,579,579,Contractual,None,0,100.0,0.0
+POS-00495,2026-06-30,Liability,Treasury,Covered bond funding,Wholesale,USD,47772970.63,2.2954,Fixed,1694,1694,Contractual,None,0,100.0,0.0
+POS-00496,2026-06-30,Liability,Commercial Banking,SME operational deposits,SME,EUR,4840676.88,1.7832,Variable,180,1,Non-maturity,None,0,10.0,0.0
+POS-00497,2026-06-30,Liability,Retail Banking,Retail term deposits,Retail,EUR,1457930.5,3.2247,Fixed,674,674,Contractual,None,0,100.0,0.0
+POS-00498,2026-06-30,Liability,Treasury,Wholesale funding,Wholesale,EUR,36092164.24,2.3451,Fixed,1050,1050,Contractual,None,0,100.0,0.0
+POS-00499,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,927127.0,1.0268,Variable,30,1,Non-maturity,None,0,5.0,0.0
+POS-00500,2026-06-30,Liability,Corporate Banking,Corporate deposits,Corporate,EUR,5555061.8,1.6054,Variable,90,1,Non-maturity,None,0,25.0,0.0
+POS-00501,2026-06-30,Liability,Commercial Banking,SME operational deposits,SME,CHF,645147.8,1.444,Variable,365,1,Non-maturity,None,0,10.0,0.0
+POS-00502,2026-06-30,Liability,Corporate Banking,Corporate deposits,Corporate,EUR,15163602.31,0.7114,Variable,365,1,Non-maturity,None,0,25.0,0.0
+POS-00503,2026-06-30,Liability,Retail Banking,Retail term deposits,Retail,USD,363276.55,1.5385,Fixed,470,470,Contractual,None,0,100.0,0.0
+POS-00504,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,808839.89,0.5721,Variable,365,1,Non-maturity,None,0,5.0,0.0
+POS-00505,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,1001459.75,1.0515,Variable,365,1,Non-maturity,None,0,5.0,0.0
+POS-00506,2026-06-30,Liability,Retail Banking,Retail term deposits,Retail,EUR,229448.8,2.9362,Fixed,181,181,Contractual,None,0,100.0,0.0
+POS-00507,2026-06-30,Liability,Corporate Banking,Corporate deposits,Corporate,GBP,9906995.25,0.727,Variable,180,1,Non-maturity,None,0,25.0,0.0
+POS-00508,2026-06-30,Liability,Treasury,Covered bond funding,Wholesale,EUR,12164414.5,4.2259,Fixed,1476,1476,Contractual,None,0,100.0,0.0
+POS-00509,2026-06-30,Liability,Corporate Banking,Corporate deposits,Corporate,EUR,13615021.74,0.6685,Variable,180,1,Non-maturity,None,0,25.0,0.0
+POS-00510,2026-06-30,Liability,Commercial Banking,SME operational deposits,SME,EUR,2571751.17,0.8141,Variable,30,1,Non-maturity,None,0,10.0,0.0
+POS-00511,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,587400.2,1.0144,Variable,30,1,Non-maturity,None,0,5.0,0.0
+POS-00512,2026-06-30,Liability,Commercial Banking,SME operational deposits,SME,EUR,5990784.4,0.7272,Variable,1,1,Non-maturity,None,0,10.0,0.0
+POS-00513,2026-06-30,Liability,Treasury,Wholesale funding,Wholesale,EUR,11687966.65,2.3321,Fixed,646,646,Contractual,None,0,100.0,0.0
+POS-00514,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,755646.17,1.7136,Variable,180,1,Non-maturity,None,0,5.0,0.0
+POS-00515,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,870502.49,0.7389,Variable,1,1,Non-maturity,None,0,5.0,0.0
+POS-00516,2026-06-30,Liability,Corporate Banking,Corporate deposits,Corporate,EUR,12879859.06,1.0017,Variable,30,1,Non-maturity,None,0,25.0,0.0
+POS-00517,2026-06-30,Liability,Commercial Banking,SME operational deposits,SME,EUR,1522614.53,1.3753,Variable,90,1,Non-maturity,None,0,10.0,0.0
+POS-00518,2026-06-30,Liability,Corporate Banking,Corporate deposits,Corporate,EUR,1907909.18,2.4364,Variable,365,1,Non-maturity,None,0,25.0,0.0
+POS-00519,2026-06-30,Liability,Treasury,Wholesale funding,Wholesale,EUR,16590867.69,3.6771,Fixed,903,903,Contractual,None,0,100.0,0.0
+POS-00520,2026-06-30,Liability,Corporate Banking,Corporate deposits,Corporate,EUR,4082721.86,1.4307,Variable,180,1,Non-maturity,None,0,25.0,0.0
+POS-00521,2026-06-30,Liability,Commercial Banking,SME operational deposits,SME,EUR,4084785.25,0.7724,Variable,180,1,Non-maturity,None,0,10.0,0.0
+POS-00522,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,CHF,952466.35,1.243,Variable,30,1,Non-maturity,None,0,5.0,0.0
+POS-00523,2026-06-30,Liability,Treasury,Wholesale funding,Wholesale,EUR,18476826.98,4.8919,Fixed,10,10,Contractual,None,0,100.0,0.0
+POS-00524,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,CHF,48832.43,1.4075,Variable,90,1,Non-maturity,None,0,5.0,0.0
+POS-00525,2026-06-30,Liability,Treasury,Wholesale funding,Wholesale,EUR,22735048.57,4.8069,Fixed,606,606,Contractual,None,0,100.0,0.0
+POS-00526,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,797409.69,1.2068,Variable,30,1,Non-maturity,None,0,5.0,0.0
+POS-00527,2026-06-30,Liability,Retail Banking,Retail term deposits,Retail,EUR,403593.09,3.1479,Fixed,461,461,Contractual,None,0,100.0,0.0
+POS-00528,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,630890.89,1.5874,Variable,30,1,Non-maturity,None,0,5.0,0.0
+POS-00529,2026-06-30,Liability,Treasury,Wholesale funding,Wholesale,EUR,22193864.75,4.7101,Fixed,280,280,Contractual,None,0,100.0,0.0
+POS-00530,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,834882.65,0.6049,Variable,30,1,Non-maturity,None,0,5.0,0.0
+POS-00531,2026-06-30,Liability,Corporate Banking,Corporate deposits,Corporate,EUR,11932472.83,1.7506,Variable,365,1,Non-maturity,None,0,25.0,0.0
+POS-00532,2026-06-30,Liability,Treasury,Interbank borrowing,Financial institution,EUR,5482948.34,5.4659,Variable,365,61,Contractual,None,0,100.0,0.0
+POS-00533,2026-06-30,Liability,Corporate Banking,Corporate deposits,Corporate,EUR,2769104.75,1.4963,Variable,1,1,Non-maturity,None,0,25.0,0.0
+POS-00534,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,518774.6,1.2471,Variable,30,1,Non-maturity,None,0,5.0,0.0
+POS-00535,2026-06-30,Liability,Treasury,Wholesale funding,Wholesale,EUR,9297424.25,2.466,Fixed,308,308,Contractual,None,0,100.0,0.0
+POS-00536,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,USD,92187.19,0.8703,Variable,1,1,Non-maturity,None,0,5.0,0.0
+POS-00537,2026-06-30,Liability,Treasury,Covered bond funding,Wholesale,EUR,22700442.81,2.8262,Fixed,713,713,Contractual,None,0,100.0,0.0
+POS-00538,2026-06-30,Liability,Treasury,Wholesale funding,Wholesale,USD,30264777.34,3.0312,Fixed,672,672,Contractual,None,0,100.0,0.0
+POS-00539,2026-06-30,Liability,Treasury,Interbank borrowing,Financial institution,EUR,24976942.7,5.2744,Variable,30,23,Contractual,None,0,100.0,0.0
+POS-00540,2026-06-30,Liability,Commercial Banking,SME operational deposits,SME,EUR,434858.59,1.5678,Variable,30,1,Non-maturity,None,0,10.0,0.0
+POS-00541,2026-06-30,Liability,Retail Banking,Retail term deposits,Retail,EUR,277206.39,1.282,Fixed,393,393,Contractual,None,0,100.0,0.0
+POS-00542,2026-06-30,Liability,Corporate Banking,Corporate deposits,Corporate,EUR,9122629.43,2.298,Variable,180,1,Non-maturity,None,0,25.0,0.0
+POS-00543,2026-06-30,Liability,Commercial Banking,SME operational deposits,SME,EUR,4760585.72,2.2069,Variable,365,1,Non-maturity,None,0,10.0,0.0
+POS-00544,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,CHF,333242.12,0.2722,Variable,90,1,Non-maturity,None,0,5.0,0.0
+POS-00545,2026-06-30,Liability,Corporate Banking,Corporate deposits,Corporate,CHF,7139675.2,2.9878,Variable,1,1,Non-maturity,None,0,25.0,0.0
+POS-00546,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,1043773.67,0.5495,Variable,365,1,Non-maturity,None,0,5.0,0.0
+POS-00547,2026-06-30,Liability,Corporate Banking,Corporate deposits,Corporate,EUR,8176260.21,2.0833,Variable,30,1,Non-maturity,None,0,25.0,0.0
+POS-00548,2026-06-30,Liability,Treasury,Interbank borrowing,Financial institution,EUR,13990902.41,3.8001,Variable,180,26,Contractual,None,0,100.0,0.0
+POS-00549,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,USD,712318.05,1.0907,Variable,180,1,Non-maturity,None,0,5.0,0.0
+POS-00550,2026-06-30,Liability,Commercial Banking,SME operational deposits,SME,EUR,2530870.99,2.3606,Variable,30,1,Non-maturity,None,0,10.0,0.0
+POS-00551,2026-06-30,Liability,Treasury,Covered bond funding,Wholesale,EUR,54207381.92,3.3286,Fixed,1424,1424,Contractual,None,0,100.0,0.0
+POS-00552,2026-06-30,Liability,Treasury,Wholesale funding,Wholesale,EUR,40038688.25,2.7752,Fixed,1013,1013,Contractual,None,0,100.0,0.0
+POS-00553,2026-06-30,Liability,Commercial Banking,SME operational deposits,SME,EUR,3733544.41,2.2893,Variable,180,1,Non-maturity,None,0,10.0,0.0
+POS-00554,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,384134.75,0.6173,Variable,1,1,Non-maturity,None,0,5.0,0.0
+POS-00555,2026-06-30,Liability,Treasury,Wholesale funding,Wholesale,EUR,27777118.62,4.0664,Fixed,50,50,Contractual,None,0,100.0,0.0
+POS-00556,2026-06-30,Liability,Commercial Banking,SME operational deposits,SME,EUR,3222824.1,0.2221,Variable,30,1,Non-maturity,None,0,10.0,0.0
+POS-00557,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,USD,605785.59,1.3135,Variable,365,1,Non-maturity,None,0,5.0,0.0
+POS-00558,2026-06-30,Liability,Treasury,Wholesale funding,Wholesale,GBP,42115774.58,4.3548,Fixed,1033,1033,Contractual,None,0,100.0,0.0
+POS-00559,2026-06-30,Liability,Retail Banking,Retail term deposits,Retail,USD,368618.56,1.8735,Fixed,628,628,Contractual,None,0,100.0,0.0
+POS-00560,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,336433.19,0.6555,Variable,1,1,Non-maturity,None,0,5.0,0.0
+POS-00561,2026-06-30,Liability,Corporate Banking,Corporate deposits,Corporate,USD,2338900.52,2.4215,Variable,180,1,Non-maturity,None,0,25.0,0.0
+POS-00562,2026-06-30,Liability,Commercial Banking,SME operational deposits,SME,EUR,902947.54,1.9068,Variable,30,1,Non-maturity,None,0,10.0,0.0
+POS-00563,2026-06-30,Liability,Commercial Banking,SME operational deposits,SME,EUR,2647311.23,0.4156,Variable,365,1,Non-maturity,None,0,10.0,0.0
+POS-00564,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,USD,218947.05,1.1143,Variable,180,1,Non-maturity,None,0,5.0,0.0
+POS-00565,2026-06-30,Liability,Retail Banking,Retail term deposits,Retail,EUR,369641.98,2.7992,Fixed,70,70,Contractual,None,0,100.0,0.0
+POS-00566,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,USD,945573.11,1.9331,Variable,180,1,Non-maturity,None,0,5.0,0.0
+POS-00567,2026-06-30,Liability,Retail Banking,Retail term deposits,Retail,EUR,610694.07,1.3076,Fixed,93,93,Contractual,None,0,100.0,0.0
+POS-00568,2026-06-30,Liability,Commercial Banking,SME operational deposits,SME,EUR,2764794.04,1.5564,Variable,180,1,Non-maturity,None,0,10.0,0.0
+POS-00569,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,156056.48,0.5938,Variable,30,1,Non-maturity,None,0,5.0,0.0
+POS-00570,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,316654.04,0.3681,Variable,90,1,Non-maturity,None,0,5.0,0.0
+POS-00571,2026-06-30,Liability,Corporate Banking,Corporate deposits,Corporate,EUR,12280612.05,1.7248,Variable,1,1,Non-maturity,None,0,25.0,0.0
+POS-00572,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,USD,99247.25,1.7602,Variable,1,1,Non-maturity,None,0,5.0,0.0
+POS-00573,2026-06-30,Liability,Retail Banking,Retail term deposits,Retail,EUR,1356800.27,2.2485,Fixed,474,474,Contractual,None,0,100.0,0.0
+POS-00574,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,832919.41,1.0048,Variable,180,1,Non-maturity,None,0,5.0,0.0
+POS-00575,2026-06-30,Liability,Treasury,Covered bond funding,Wholesale,EUR,60578327.08,3.6616,Fixed,335,335,Contractual,None,0,100.0,0.0
+POS-00576,2026-06-30,Liability,Treasury,Interbank borrowing,Financial institution,EUR,18843881.09,2.6269,Variable,90,161,Contractual,None,0,100.0,0.0
+POS-00577,2026-06-30,Liability,Retail Banking,Retail term deposits,Retail,EUR,1453273.82,1.7325,Fixed,177,177,Contractual,None,0,100.0,0.0
+POS-00578,2026-06-30,Liability,Retail Banking,Retail term deposits,Retail,EUR,991875.64,3.3817,Fixed,298,298,Contractual,None,0,100.0,0.0
+POS-00579,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,727899.61,1.9106,Variable,90,1,Non-maturity,None,0,5.0,0.0
+POS-00580,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,518693.36,0.3958,Variable,90,1,Non-maturity,None,0,5.0,0.0
+POS-00581,2026-06-30,Liability,Retail Banking,Retail term deposits,Retail,EUR,364983.4,3.0204,Fixed,325,325,Contractual,None,0,100.0,0.0
+POS-00582,2026-06-30,Liability,Corporate Banking,Corporate deposits,Corporate,CHF,13931475.82,1.2957,Variable,90,1,Non-maturity,None,0,25.0,0.0
+POS-00583,2026-06-30,Liability,Treasury,Interbank borrowing,Financial institution,EUR,3994696.04,4.9467,Variable,180,119,Contractual,None,0,100.0,0.0
+POS-00584,2026-06-30,Liability,Retail Banking,Retail term deposits,Retail,CHF,705773.45,3.0319,Fixed,25,25,Contractual,None,0,100.0,0.0
+POS-00585,2026-06-30,Liability,Treasury,Wholesale funding,Wholesale,USD,7737727.29,4.4518,Fixed,445,445,Contractual,None,0,100.0,0.0
+POS-00586,2026-06-30,Liability,Retail Banking,Retail term deposits,Retail,EUR,932554.01,1.8288,Fixed,141,141,Contractual,None,0,100.0,0.0
+POS-00587,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,1029063.39,2.0221,Variable,1,1,Non-maturity,None,0,5.0,0.0
+POS-00588,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,195977.75,1.8792,Variable,180,1,Non-maturity,None,0,5.0,0.0
+POS-00589,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,559934.98,0.5306,Variable,90,1,Non-maturity,None,0,5.0,0.0
+POS-00590,2026-06-30,Liability,Commercial Banking,SME operational deposits,SME,USD,5094812.34,2.3639,Variable,90,1,Non-maturity,None,0,10.0,0.0
+POS-00591,2026-06-30,Liability,Treasury,Covered bond funding,Wholesale,EUR,37595138.18,2.862,Fixed,237,237,Contractual,None,0,100.0,0.0
+POS-00592,2026-06-30,Liability,Treasury,Interbank borrowing,Financial institution,EUR,23540834.95,4.0001,Variable,90,165,Contractual,None,0,100.0,0.0
+POS-00593,2026-06-30,Liability,Treasury,Covered bond funding,Wholesale,EUR,58516229.75,3.1702,Fixed,973,973,Contractual,None,0,100.0,0.0
+POS-00594,2026-06-30,Liability,Commercial Banking,SME operational deposits,SME,GBP,1063459.0,1.0714,Variable,90,1,Non-maturity,None,0,10.0,0.0
+POS-00595,2026-06-30,Liability,Corporate Banking,Corporate deposits,Corporate,USD,9915383.75,1.1882,Variable,30,1,Non-maturity,None,0,25.0,0.0
+POS-00596,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,349821.89,1.0928,Variable,365,1,Non-maturity,None,0,5.0,0.0
+POS-00597,2026-06-30,Liability,Corporate Banking,Corporate deposits,Corporate,EUR,12882623.55,1.2758,Variable,180,1,Non-maturity,None,0,25.0,0.0
+POS-00598,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,USD,1152082.52,2.0949,Variable,30,1,Non-maturity,None,0,5.0,0.0
+POS-00599,2026-06-30,Liability,Retail Banking,Retail term deposits,Retail,EUR,110902.73,2.702,Fixed,556,556,Contractual,None,0,100.0,0.0
+POS-00600,2026-06-30,Liability,Retail Banking,Retail term deposits,Retail,EUR,514820.17,3.2212,Fixed,476,476,Contractual,None,0,100.0,0.0
+POS-00601,2026-06-30,Liability,Commercial Banking,SME operational deposits,SME,EUR,2028190.92,1.3907,Variable,90,1,Non-maturity,None,0,10.0,0.0
+POS-00602,2026-06-30,Liability,Retail Banking,Retail term deposits,Retail,EUR,1158884.09,2.6925,Fixed,267,267,Contractual,None,0,100.0,0.0
+POS-00603,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,149980.19,0.5012,Variable,90,1,Non-maturity,None,0,5.0,0.0
+POS-00604,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,996320.93,1.6609,Variable,365,1,Non-maturity,None,0,5.0,0.0
+POS-00605,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,725656.68,1.3188,Variable,30,1,Non-maturity,None,0,5.0,0.0
+POS-00606,2026-06-30,Liability,Retail Banking,Retail term deposits,Retail,EUR,798890.4,3.3989,Fixed,27,27,Contractual,None,0,100.0,0.0
+POS-00607,2026-06-30,Liability,Retail Banking,Retail term deposits,Retail,EUR,1491330.32,2.1495,Fixed,13,13,Contractual,None,0,100.0,0.0
+POS-00608,2026-06-30,Liability,Retail Banking,Retail term deposits,Retail,EUR,670422.65,1.7539,Fixed,173,173,Contractual,None,0,100.0,0.0
+POS-00609,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,757481.35,0.731,Variable,1,1,Non-maturity,None,0,5.0,0.0
+POS-00610,2026-06-30,Liability,Treasury,Wholesale funding,Wholesale,EUR,13334382.54,3.3381,Fixed,567,567,Contractual,None,0,100.0,0.0
+POS-00611,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,129521.25,0.3056,Variable,90,1,Non-maturity,None,0,5.0,0.0
+POS-00612,2026-06-30,Liability,Corporate Banking,Corporate deposits,Corporate,EUR,14727685.95,0.6901,Variable,365,1,Non-maturity,None,0,25.0,0.0
+POS-00613,2026-06-30,Liability,Treasury,Wholesale funding,Wholesale,CHF,4358396.14,4.4252,Fixed,48,48,Contractual,None,0,100.0,0.0
+POS-00614,2026-06-30,Liability,Treasury,Wholesale funding,Wholesale,EUR,34348201.79,2.3592,Fixed,432,432,Contractual,None,0,100.0,0.0
+POS-00615,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,209774.44,1.3895,Variable,30,1,Non-maturity,None,0,5.0,0.0
+POS-00616,2026-06-30,Liability,Retail Banking,Retail term deposits,Retail,EUR,438791.85,2.2976,Fixed,633,633,Contractual,None,0,100.0,0.0
+POS-00617,2026-06-30,Liability,Treasury,Wholesale funding,Wholesale,GBP,19328551.19,4.0734,Fixed,916,916,Contractual,None,0,100.0,0.0
+POS-00618,2026-06-30,Liability,Treasury,Wholesale funding,Wholesale,EUR,32187404.91,4.7115,Fixed,516,516,Contractual,None,0,100.0,0.0
+POS-00619,2026-06-30,Liability,Commercial Banking,SME operational deposits,SME,EUR,652100.83,0.9144,Variable,180,1,Non-maturity,None,0,10.0,0.0
+POS-00620,2026-06-30,Liability,Commercial Banking,SME operational deposits,SME,GBP,3138072.67,2.4345,Variable,1,1,Non-maturity,None,0,10.0,0.0
+POS-00621,2026-06-30,Liability,Treasury,Interbank borrowing,Financial institution,EUR,17275719.92,3.8022,Variable,180,85,Contractual,None,0,100.0,0.0
+POS-00622,2026-06-30,Liability,Treasury,Covered bond funding,Wholesale,EUR,53898319.3,3.2132,Fixed,294,294,Contractual,None,0,100.0,0.0
+POS-00623,2026-06-30,Liability,Retail Banking,Retail term deposits,Retail,EUR,833784.46,1.9696,Fixed,381,381,Contractual,None,0,100.0,0.0
+POS-00624,2026-06-30,Liability,Treasury,Covered bond funding,Wholesale,EUR,32682188.29,4.6937,Fixed,513,513,Contractual,None,0,100.0,0.0
+POS-00625,2026-06-30,Liability,Treasury,Wholesale funding,Wholesale,EUR,16450719.77,3.0696,Fixed,596,596,Contractual,None,0,100.0,0.0
+POS-00626,2026-06-30,Liability,Treasury,Interbank borrowing,Financial institution,EUR,11185738.49,5.0582,Variable,1,146,Contractual,None,0,100.0,0.0
+POS-00627,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,412872.93,2.0248,Variable,1,1,Non-maturity,None,0,5.0,0.0
+POS-00628,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,1004814.46,0.5847,Variable,180,1,Non-maturity,None,0,5.0,0.0
+POS-00629,2026-06-30,Liability,Treasury,Wholesale funding,Wholesale,EUR,40927556.62,2.7679,Fixed,36,36,Contractual,None,0,100.0,0.0
+POS-00630,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,GBP,1061182.88,0.1094,Variable,90,1,Non-maturity,None,0,5.0,0.0
+POS-00631,2026-06-30,Liability,Commercial Banking,SME operational deposits,SME,EUR,2836559.4,0.2524,Variable,90,1,Non-maturity,None,0,10.0,0.0
+POS-00632,2026-06-30,Liability,Corporate Banking,Corporate deposits,Corporate,EUR,878428.86,2.6617,Variable,180,1,Non-maturity,None,0,25.0,0.0
+POS-00633,2026-06-30,Liability,Corporate Banking,Corporate deposits,Corporate,EUR,8288036.48,0.7461,Variable,90,1,Non-maturity,None,0,25.0,0.0
+POS-00634,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,USD,536189.05,1.7511,Variable,365,1,Non-maturity,None,0,5.0,0.0
+POS-00635,2026-06-30,Liability,Treasury,Wholesale funding,Wholesale,EUR,15032211.22,2.3107,Fixed,762,762,Contractual,None,0,100.0,0.0
+POS-00636,2026-06-30,Liability,Commercial Banking,SME operational deposits,SME,EUR,1667952.52,2.3578,Variable,365,1,Non-maturity,None,0,10.0,0.0
+POS-00637,2026-06-30,Liability,Treasury,Covered bond funding,Wholesale,EUR,54247457.92,2.1906,Fixed,1506,1506,Contractual,None,0,100.0,0.0
+POS-00638,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,613637.71,0.1379,Variable,365,1,Non-maturity,None,0,5.0,0.0
+POS-00639,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,137374.2,1.5538,Variable,1,1,Non-maturity,None,0,5.0,0.0
+POS-00640,2026-06-30,Liability,Retail Banking,Retail term deposits,Retail,EUR,1324725.45,2.207,Fixed,705,705,Contractual,None,0,100.0,0.0
+POS-00641,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,864141.04,1.5202,Variable,90,1,Non-maturity,None,0,5.0,0.0
+POS-00642,2026-06-30,Liability,Commercial Banking,SME operational deposits,SME,EUR,407558.12,2.1054,Variable,180,1,Non-maturity,None,0,10.0,0.0
+POS-00643,2026-06-30,Liability,Corporate Banking,Corporate deposits,Corporate,USD,15952815.17,1.0423,Variable,180,1,Non-maturity,None,0,25.0,0.0
+POS-00644,2026-06-30,Liability,Treasury,Covered bond funding,Wholesale,EUR,52152110.93,2.4428,Fixed,915,915,Contractual,None,0,100.0,0.0
+POS-00645,2026-06-30,Liability,Retail Banking,Retail term deposits,Retail,EUR,669324.96,1.2351,Fixed,135,135,Contractual,None,0,100.0,0.0
+POS-00646,2026-06-30,Liability,Treasury,Wholesale funding,Wholesale,EUR,7690211.14,5.0872,Fixed,1085,1085,Contractual,None,0,100.0,0.0
+POS-00647,2026-06-30,Liability,Commercial Banking,SME operational deposits,SME,EUR,2641038.9,1.655,Variable,30,1,Non-maturity,None,0,10.0,0.0
+POS-00648,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,791316.32,0.8371,Variable,30,1,Non-maturity,None,0,5.0,0.0
+POS-00649,2026-06-30,Liability,Treasury,Covered bond funding,Wholesale,USD,24911430.33,2.6714,Fixed,1765,1765,Contractual,None,0,100.0,0.0
+POS-00650,2026-06-30,Liability,Corporate Banking,Corporate deposits,Corporate,EUR,11408702.77,2.6286,Variable,30,1,Non-maturity,None,0,25.0,0.0
+POS-00651,2026-06-30,Liability,Treasury,Wholesale funding,Wholesale,CHF,12505954.17,4.8696,Fixed,405,405,Contractual,None,0,100.0,0.0
+POS-00652,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,696370.94,1.5964,Variable,30,1,Non-maturity,None,0,5.0,0.0
+POS-00653,2026-06-30,Liability,Commercial Banking,SME operational deposits,SME,EUR,2726322.16,1.2308,Variable,1,1,Non-maturity,None,0,10.0,0.0
+POS-00654,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,CHF,317524.83,1.8715,Variable,1,1,Non-maturity,None,0,5.0,0.0
+POS-00655,2026-06-30,Liability,Corporate Banking,Corporate deposits,Corporate,EUR,12498526.34,1.9392,Variable,1,1,Non-maturity,None,0,25.0,0.0
+POS-00656,2026-06-30,Liability,Commercial Banking,SME operational deposits,SME,USD,3825307.03,2.0757,Variable,180,1,Non-maturity,None,0,10.0,0.0
+POS-00657,2026-06-30,Liability,Treasury,Wholesale funding,Wholesale,EUR,39490213.59,4.0497,Fixed,396,396,Contractual,None,0,100.0,0.0
+POS-00658,2026-06-30,Liability,Retail Banking,Retail term deposits,Retail,EUR,1700964.18,2.5953,Fixed,579,579,Contractual,None,0,100.0,0.0
+POS-00659,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,43525.17,1.2958,Variable,365,1,Non-maturity,None,0,5.0,0.0
+POS-00660,2026-06-30,Liability,Corporate Banking,Corporate deposits,Corporate,USD,3430151.74,2.4971,Variable,365,1,Non-maturity,None,0,25.0,0.0
+POS-00661,2026-06-30,Liability,Commercial Banking,SME operational deposits,SME,EUR,4880659.46,0.5788,Variable,1,1,Non-maturity,None,0,10.0,0.0
+POS-00662,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,164270.68,0.1963,Variable,30,1,Non-maturity,None,0,5.0,0.0
+POS-00663,2026-06-30,Liability,Retail Banking,Retail term deposits,Retail,EUR,1325259.77,3.0098,Fixed,255,255,Contractual,None,0,100.0,0.0
+POS-00664,2026-06-30,Liability,Retail Banking,Retail term deposits,Retail,EUR,1043395.88,1.2327,Fixed,706,706,Contractual,None,0,100.0,0.0
+POS-00665,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,387337.64,1.2147,Variable,365,1,Non-maturity,None,0,5.0,0.0
+POS-00666,2026-06-30,Liability,Retail Banking,Retail term deposits,Retail,USD,1011334.71,2.0079,Fixed,364,364,Contractual,None,0,100.0,0.0
+POS-00667,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,561241.78,1.2285,Variable,365,1,Non-maturity,None,0,5.0,0.0
+POS-00668,2026-06-30,Liability,Treasury,Wholesale funding,Wholesale,EUR,15827810.52,3.9718,Fixed,788,788,Contractual,None,0,100.0,0.0
+POS-00669,2026-06-30,Liability,Retail Banking,Retail term deposits,Retail,CHF,173176.36,3.2387,Fixed,90,90,Contractual,None,0,100.0,0.0
+POS-00670,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,768661.13,1.3186,Variable,90,1,Non-maturity,None,0,5.0,0.0
+POS-00671,2026-06-30,Liability,Commercial Banking,SME operational deposits,SME,EUR,2595924.23,1.7277,Variable,180,1,Non-maturity,None,0,10.0,0.0
+POS-00672,2026-06-30,Liability,Retail Banking,Retail term deposits,Retail,EUR,1547368.53,2.397,Fixed,712,712,Contractual,None,0,100.0,0.0
+POS-00673,2026-06-30,Liability,Treasury,Wholesale funding,Wholesale,EUR,10947479.12,2.5702,Fixed,499,499,Contractual,None,0,100.0,0.0
+POS-00674,2026-06-30,Liability,Retail Banking,Retail term deposits,Retail,GBP,130436.07,1.7498,Fixed,438,438,Contractual,None,0,100.0,0.0
+POS-00675,2026-06-30,Liability,Retail Banking,Retail term deposits,Retail,EUR,1795121.43,2.9961,Fixed,313,313,Contractual,None,0,100.0,0.0
+POS-00676,2026-06-30,Liability,Treasury,Wholesale funding,Wholesale,EUR,4220680.06,4.3062,Fixed,919,919,Contractual,None,0,100.0,0.0
+POS-00677,2026-06-30,Liability,Corporate Banking,Corporate deposits,Corporate,USD,5673344.37,2.5032,Variable,1,1,Non-maturity,None,0,25.0,0.0
+POS-00678,2026-06-30,Liability,Corporate Banking,Corporate deposits,Corporate,USD,9527570.03,1.7543,Variable,180,1,Non-maturity,None,0,25.0,0.0
+POS-00679,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,846377.53,1.4744,Variable,30,1,Non-maturity,None,0,5.0,0.0
+POS-00680,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,325382.37,0.5868,Variable,90,1,Non-maturity,None,0,5.0,0.0
+POS-00681,2026-06-30,Liability,Treasury,Wholesale funding,Wholesale,USD,28703029.61,5.0328,Fixed,8,8,Contractual,None,0,100.0,0.0
+POS-00682,2026-06-30,Liability,Commercial Banking,SME operational deposits,SME,USD,2217909.49,1.8092,Variable,180,1,Non-maturity,None,0,10.0,0.0
+POS-00683,2026-06-30,Liability,Retail Banking,Retail term deposits,Retail,EUR,1633559.6,2.417,Fixed,67,67,Contractual,None,0,100.0,0.0
+POS-00684,2026-06-30,Liability,Retail Banking,Retail term deposits,Retail,EUR,1201136.49,2.0369,Fixed,650,650,Contractual,None,0,100.0,0.0
+POS-00685,2026-06-30,Liability,Corporate Banking,Corporate deposits,Corporate,EUR,9888207.9,0.5221,Variable,365,1,Non-maturity,None,0,25.0,0.0
+POS-00686,2026-06-30,Liability,Commercial Banking,SME operational deposits,SME,EUR,658634.88,2.4245,Variable,1,1,Non-maturity,None,0,10.0,0.0
+POS-00687,2026-06-30,Liability,Treasury,Wholesale funding,Wholesale,EUR,31116410.37,4.9126,Fixed,457,457,Contractual,None,0,100.0,0.0
+POS-00688,2026-06-30,Liability,Treasury,Wholesale funding,Wholesale,EUR,25142487.77,2.9653,Fixed,213,213,Contractual,None,0,100.0,0.0
+POS-00689,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,CHF,886812.55,1.0781,Variable,1,1,Non-maturity,None,0,5.0,0.0
+POS-00690,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,1057528.93,0.1668,Variable,30,1,Non-maturity,None,0,5.0,0.0
+POS-00691,2026-06-30,Liability,Retail Banking,Retail term deposits,Retail,GBP,264026.11,2.6228,Fixed,466,466,Contractual,None,0,100.0,0.0
+POS-00692,2026-06-30,Liability,Treasury,Interbank borrowing,Financial institution,EUR,6401080.74,3.7377,Variable,1,104,Contractual,None,0,100.0,0.0
+POS-00693,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,USD,282360.89,0.8773,Variable,365,1,Non-maturity,None,0,5.0,0.0
+POS-00694,2026-06-30,Liability,Commercial Banking,SME operational deposits,SME,EUR,484963.13,1.4116,Variable,180,1,Non-maturity,None,0,10.0,0.0
+POS-00695,2026-06-30,Liability,Treasury,Wholesale funding,Wholesale,EUR,22283802.4,3.9034,Fixed,691,691,Contractual,None,0,100.0,0.0
+POS-00696,2026-06-30,Liability,Retail Banking,Retail term deposits,Retail,EUR,466368.42,3.1725,Fixed,233,233,Contractual,None,0,100.0,0.0
+POS-00697,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,311487.91,1.7208,Variable,180,1,Non-maturity,None,0,5.0,0.0
+POS-00698,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,157129.87,0.3187,Variable,30,1,Non-maturity,None,0,5.0,0.0
+POS-00699,2026-06-30,Liability,Corporate Banking,Corporate deposits,Corporate,EUR,16431341.03,2.4694,Variable,90,1,Non-maturity,None,0,25.0,0.0
+POS-00700,2026-06-30,Liability,Corporate Banking,Corporate deposits,Corporate,EUR,17840721.69,2.5598,Variable,180,1,Non-maturity,None,0,25.0,0.0
+POS-00701,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,720812.39,2.0235,Variable,30,1,Non-maturity,None,0,5.0,0.0
+POS-00702,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,924157.06,0.4769,Variable,90,1,Non-maturity,None,0,5.0,0.0
+POS-00703,2026-06-30,Liability,Treasury,Wholesale funding,Wholesale,EUR,28438509.44,3.9605,Fixed,351,351,Contractual,None,0,100.0,0.0
+POS-00704,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,248626.15,1.581,Variable,30,1,Non-maturity,None,0,5.0,0.0
+POS-00705,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,282822.32,2.0166,Variable,30,1,Non-maturity,None,0,5.0,0.0
+POS-00706,2026-06-30,Liability,Treasury,Wholesale funding,Wholesale,EUR,18525238.23,2.2044,Fixed,185,185,Contractual,None,0,100.0,0.0
+POS-00707,2026-06-30,Liability,Treasury,Wholesale funding,Wholesale,USD,7260797.88,4.7917,Fixed,655,655,Contractual,None,0,100.0,0.0
+POS-00708,2026-06-30,Liability,Treasury,Wholesale funding,Wholesale,EUR,24546491.62,2.552,Fixed,805,805,Contractual,None,0,100.0,0.0
+POS-00709,2026-06-30,Liability,Commercial Banking,SME operational deposits,SME,CHF,4032017.12,0.4089,Variable,90,1,Non-maturity,None,0,10.0,0.0
+POS-00710,2026-06-30,Liability,Treasury,Covered bond funding,Wholesale,EUR,60065752.54,4.4233,Fixed,1517,1517,Contractual,None,0,100.0,0.0
+POS-00711,2026-06-30,Liability,Commercial Banking,SME operational deposits,SME,EUR,5486260.43,1.9993,Variable,90,1,Non-maturity,None,0,10.0,0.0
+POS-00712,2026-06-30,Liability,Commercial Banking,SME operational deposits,SME,USD,5145605.69,2.3412,Variable,30,1,Non-maturity,None,0,10.0,0.0
+POS-00713,2026-06-30,Liability,Treasury,Covered bond funding,Wholesale,EUR,58523336.26,3.866,Fixed,1657,1657,Contractual,None,0,100.0,0.0
+POS-00714,2026-06-30,Liability,Treasury,Interbank borrowing,Financial institution,EUR,16690985.21,4.353,Variable,180,119,Contractual,None,0,100.0,0.0
+POS-00715,2026-06-30,Liability,Commercial Banking,SME operational deposits,SME,EUR,3354345.04,1.481,Variable,365,1,Non-maturity,None,0,10.0,0.0
+POS-00716,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,USD,1097903.06,0.232,Variable,1,1,Non-maturity,None,0,5.0,0.0
+POS-00717,2026-06-30,Liability,Commercial Banking,SME operational deposits,SME,EUR,5408505.98,1.9329,Variable,30,1,Non-maturity,None,0,10.0,0.0
+POS-00718,2026-06-30,Liability,Treasury,Interbank borrowing,Financial institution,EUR,23626317.14,5.1518,Variable,1,86,Contractual,None,0,100.0,0.0
+POS-00719,2026-06-30,Liability,Treasury,Covered bond funding,Wholesale,EUR,10023413.12,2.016,Fixed,593,593,Contractual,None,0,100.0,0.0
+POS-00720,2026-06-30,Liability,Commercial Banking,SME operational deposits,SME,EUR,5071088.39,0.2378,Variable,365,1,Non-maturity,None,0,10.0,0.0
+POS-00721,2026-06-30,Liability,Treasury,Wholesale funding,Wholesale,EUR,37182690.13,2.7469,Fixed,692,692,Contractual,None,0,100.0,0.0
+POS-00722,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,208565.53,1.8749,Variable,90,1,Non-maturity,None,0,5.0,0.0
+POS-00723,2026-06-30,Liability,Corporate Banking,Corporate deposits,Corporate,EUR,12095919.52,2.7637,Variable,1,1,Non-maturity,None,0,25.0,0.0
+POS-00724,2026-06-30,Liability,Treasury,Interbank borrowing,Financial institution,CHF,13162708.99,4.7876,Variable,180,97,Contractual,None,0,100.0,0.0
+POS-00725,2026-06-30,Liability,Retail Banking,Retail term deposits,Retail,GBP,1616211.62,1.87,Fixed,451,451,Contractual,None,0,100.0,0.0
+POS-00726,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,USD,1118684.11,1.0915,Variable,365,1,Non-maturity,None,0,5.0,0.0
+POS-00727,2026-06-30,Liability,Treasury,Covered bond funding,Wholesale,EUR,52897946.01,4.0419,Fixed,111,111,Contractual,None,0,100.0,0.0
+POS-00728,2026-06-30,Liability,Commercial Banking,SME operational deposits,SME,USD,454251.03,2.377,Variable,90,1,Non-maturity,None,0,10.0,0.0
+POS-00729,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,771824.31,0.8503,Variable,180,1,Non-maturity,None,0,5.0,0.0
+POS-00730,2026-06-30,Liability,Commercial Banking,SME operational deposits,SME,GBP,3701229.54,0.7407,Variable,365,1,Non-maturity,None,0,10.0,0.0
+POS-00731,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,530243.58,2.0686,Variable,30,1,Non-maturity,None,0,5.0,0.0
+POS-00732,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,124799.54,1.7317,Variable,1,1,Non-maturity,None,0,5.0,0.0
+POS-00733,2026-06-30,Liability,Corporate Banking,Corporate deposits,Corporate,EUR,12609749.29,1.3921,Variable,365,1,Non-maturity,None,0,25.0,0.0
+POS-00734,2026-06-30,Liability,Treasury,Covered bond funding,Wholesale,EUR,17910936.07,2.9243,Fixed,1699,1699,Contractual,None,0,100.0,0.0
+POS-00735,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,618846.78,0.1084,Variable,180,1,Non-maturity,None,0,5.0,0.0
+POS-00736,2026-06-30,Liability,Commercial Banking,SME operational deposits,SME,EUR,4567698.29,2.3077,Variable,1,1,Non-maturity,None,0,10.0,0.0
+POS-00737,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,136700.39,1.6656,Variable,90,1,Non-maturity,None,0,5.0,0.0
+POS-00738,2026-06-30,Liability,Treasury,Interbank borrowing,Financial institution,EUR,5930567.74,5.0837,Variable,180,78,Contractual,None,0,100.0,0.0
+POS-00739,2026-06-30,Liability,Retail Banking,Retail term deposits,Retail,EUR,114857.58,1.4557,Fixed,240,240,Contractual,None,0,100.0,0.0
+POS-00740,2026-06-30,Liability,Corporate Banking,Corporate deposits,Corporate,CHF,6898592.91,2.5106,Variable,365,1,Non-maturity,None,0,25.0,0.0
+POS-00741,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,688875.46,0.8676,Variable,30,1,Non-maturity,None,0,5.0,0.0
+POS-00742,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,USD,73734.77,0.2384,Variable,1,1,Non-maturity,None,0,5.0,0.0
+POS-00743,2026-06-30,Liability,Treasury,Wholesale funding,Wholesale,EUR,26735799.26,3.3359,Fixed,173,173,Contractual,None,0,100.0,0.0
+POS-00744,2026-06-30,Liability,Treasury,Wholesale funding,Wholesale,USD,43012987.46,4.3618,Fixed,447,447,Contractual,None,0,100.0,0.0
+POS-00745,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,GBP,655996.76,1.4176,Variable,90,1,Non-maturity,None,0,5.0,0.0
+POS-00746,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,848863.47,0.596,Variable,1,1,Non-maturity,None,0,5.0,0.0
+POS-00747,2026-06-30,Liability,Retail Banking,Retail term deposits,Retail,EUR,1528989.21,1.2414,Fixed,260,260,Contractual,None,0,100.0,0.0
+POS-00748,2026-06-30,Liability,Corporate Banking,Corporate deposits,Corporate,EUR,5314451.18,2.5098,Variable,365,1,Non-maturity,None,0,25.0,0.0
+POS-00749,2026-06-30,Liability,Retail Banking,Retail term deposits,Retail,EUR,135883.54,2.5901,Fixed,616,616,Contractual,None,0,100.0,0.0
+POS-00750,2026-06-30,Liability,Commercial Banking,SME operational deposits,SME,EUR,1716485.86,1.6692,Variable,90,1,Non-maturity,None,0,10.0,0.0
+POS-00751,2026-06-30,Liability,Retail Banking,Retail term deposits,Retail,USD,868798.54,1.5782,Fixed,687,687,Contractual,None,0,100.0,0.0
+POS-00752,2026-06-30,Liability,Retail Banking,Retail term deposits,Retail,USD,703440.41,2.5909,Fixed,649,649,Contractual,None,0,100.0,0.0
+POS-00753,2026-06-30,Liability,Retail Banking,Retail term deposits,Retail,EUR,1331356.86,2.5572,Fixed,29,29,Contractual,None,0,100.0,0.0
+POS-00754,2026-06-30,Liability,Retail Banking,Retail term deposits,Retail,EUR,1596129.35,2.6068,Fixed,652,652,Contractual,None,0,100.0,0.0
+POS-00755,2026-06-30,Liability,Treasury,Covered bond funding,Wholesale,EUR,38995643.78,2.6513,Fixed,833,833,Contractual,None,0,100.0,0.0
+POS-00756,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,USD,928477.46,0.4432,Variable,90,1,Non-maturity,None,0,5.0,0.0
+POS-00757,2026-06-30,Liability,Corporate Banking,Corporate deposits,Corporate,USD,3892674.33,2.5513,Variable,1,1,Non-maturity,None,0,25.0,0.0
+POS-00758,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,741864.32,1.9361,Variable,90,1,Non-maturity,None,0,5.0,0.0
+POS-00759,2026-06-30,Liability,Treasury,Interbank borrowing,Financial institution,EUR,14192238.45,4.9582,Variable,180,16,Contractual,None,0,100.0,0.0
+POS-00760,2026-06-30,Liability,Commercial Banking,SME operational deposits,SME,USD,2575180.34,0.2624,Variable,30,1,Non-maturity,None,0,10.0,0.0
+POS-00761,2026-06-30,Liability,Treasury,Interbank borrowing,Financial institution,USD,2549204.09,4.5071,Variable,1,73,Contractual,None,0,100.0,0.0
+POS-00762,2026-06-30,Liability,Treasury,Wholesale funding,Wholesale,EUR,14604213.03,4.3415,Fixed,996,996,Contractual,None,0,100.0,0.0
+POS-00763,2026-06-30,Liability,Corporate Banking,Corporate deposits,Corporate,GBP,3961917.85,2.4738,Variable,180,1,Non-maturity,None,0,25.0,0.0
+POS-00764,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,GBP,1156639.33,1.1253,Variable,1,1,Non-maturity,None,0,5.0,0.0
+POS-00765,2026-06-30,Liability,Commercial Banking,SME operational deposits,SME,EUR,3377736.78,2.4252,Variable,30,1,Non-maturity,None,0,10.0,0.0
+POS-00766,2026-06-30,Liability,Commercial Banking,SME operational deposits,SME,EUR,1475932.91,2.103,Variable,90,1,Non-maturity,None,0,10.0,0.0
+POS-00767,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,1163026.31,0.4798,Variable,90,1,Non-maturity,None,0,5.0,0.0
+POS-00768,2026-06-30,Liability,Corporate Banking,Corporate deposits,Corporate,EUR,10077756.62,2.6587,Variable,365,1,Non-maturity,None,0,25.0,0.0
+POS-00769,2026-06-30,Liability,Corporate Banking,Corporate deposits,Corporate,EUR,6621335.91,2.147,Variable,30,1,Non-maturity,None,0,25.0,0.0
+POS-00770,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,GBP,307087.87,1.6631,Variable,180,1,Non-maturity,None,0,5.0,0.0
+POS-00771,2026-06-30,Liability,Treasury,Interbank borrowing,Financial institution,EUR,3817220.53,2.6724,Variable,90,108,Contractual,None,0,100.0,0.0
+POS-00772,2026-06-30,Liability,Retail Banking,Retail term deposits,Retail,CHF,1430308.5,3.4377,Fixed,350,350,Contractual,None,0,100.0,0.0
+POS-00773,2026-06-30,Liability,Corporate Banking,Corporate deposits,Corporate,CHF,9135822.92,2.8514,Variable,30,1,Non-maturity,None,0,25.0,0.0
+POS-00774,2026-06-30,Liability,Retail Banking,Retail term deposits,Retail,EUR,538709.58,2.6892,Fixed,647,647,Contractual,None,0,100.0,0.0
+POS-00775,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,809588.71,0.1029,Variable,180,1,Non-maturity,None,0,5.0,0.0
+POS-00776,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,848828.93,0.2211,Variable,180,1,Non-maturity,None,0,5.0,0.0
+POS-00777,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,881322.55,0.305,Variable,90,1,Non-maturity,None,0,5.0,0.0
+POS-00778,2026-06-30,Liability,Retail Banking,Retail term deposits,Retail,EUR,1052566.39,1.8841,Fixed,336,336,Contractual,None,0,100.0,0.0
+POS-00779,2026-06-30,Liability,Treasury,Wholesale funding,Wholesale,CHF,40004580.91,4.6478,Fixed,832,832,Contractual,None,0,100.0,0.0
+POS-00780,2026-06-30,Liability,Commercial Banking,SME operational deposits,SME,USD,3287592.35,1.2262,Variable,30,1,Non-maturity,None,0,10.0,0.0
+POS-00781,2026-06-30,Liability,Corporate Banking,Corporate deposits,Corporate,EUR,3603960.66,1.9731,Variable,365,1,Non-maturity,None,0,25.0,0.0
+POS-00782,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,USD,769113.12,1.5681,Variable,180,1,Non-maturity,None,0,5.0,0.0
+POS-00783,2026-06-30,Liability,Commercial Banking,SME operational deposits,SME,EUR,188409.17,2.4841,Variable,365,1,Non-maturity,None,0,10.0,0.0
+POS-00784,2026-06-30,Liability,Treasury,Covered bond funding,Wholesale,EUR,52809996.98,2.1061,Fixed,612,612,Contractual,None,0,100.0,0.0
+POS-00785,2026-06-30,Liability,Commercial Banking,SME operational deposits,SME,CHF,3435474.35,0.9034,Variable,90,1,Non-maturity,None,0,10.0,0.0
+POS-00786,2026-06-30,Liability,Corporate Banking,Corporate deposits,Corporate,EUR,9044897.99,1.3622,Variable,90,1,Non-maturity,None,0,25.0,0.0
+POS-00787,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,159738.1,0.573,Variable,30,1,Non-maturity,None,0,5.0,0.0
+POS-00788,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,USD,83639.75,1.7344,Variable,30,1,Non-maturity,None,0,5.0,0.0
+POS-00789,2026-06-30,Liability,Corporate Banking,Corporate deposits,Corporate,GBP,17431188.67,1.81,Variable,30,1,Non-maturity,None,0,25.0,0.0
+POS-00790,2026-06-30,Liability,Treasury,Wholesale funding,Wholesale,EUR,28828761.25,2.7793,Fixed,1039,1039,Contractual,None,0,100.0,0.0
+POS-00791,2026-06-30,Liability,Corporate Banking,Corporate deposits,Corporate,EUR,6399478.98,1.4308,Variable,365,1,Non-maturity,None,0,25.0,0.0
+POS-00792,2026-06-30,Liability,Corporate Banking,Corporate deposits,Corporate,EUR,16953743.55,1.9413,Variable,180,1,Non-maturity,None,0,25.0,0.0
+POS-00793,2026-06-30,Liability,Treasury,Wholesale funding,Wholesale,EUR,26135283.3,2.4571,Fixed,976,976,Contractual,None,0,100.0,0.0
+POS-00794,2026-06-30,Liability,Treasury,Wholesale funding,Wholesale,EUR,9661352.98,2.5029,Fixed,842,842,Contractual,None,0,100.0,0.0
+POS-00795,2026-06-30,Liability,Treasury,Covered bond funding,Wholesale,EUR,69993728.58,3.7388,Fixed,242,242,Contractual,None,0,100.0,0.0
+POS-00796,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,USD,132827.15,2.098,Variable,30,1,Non-maturity,None,0,5.0,0.0
+POS-00797,2026-06-30,Liability,Corporate Banking,Corporate deposits,Corporate,EUR,2433185.47,2.0376,Variable,1,1,Non-maturity,None,0,25.0,0.0
+POS-00798,2026-06-30,Liability,Commercial Banking,SME operational deposits,SME,USD,3826803.42,0.674,Variable,90,1,Non-maturity,None,0,10.0,0.0
+POS-00799,2026-06-30,Liability,Treasury,Wholesale funding,Wholesale,EUR,26498746.17,3.2134,Fixed,838,838,Contractual,None,0,100.0,0.0
+POS-00800,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,1109191.06,2.0262,Variable,30,1,Non-maturity,None,0,5.0,0.0
+POS-00801,2026-06-30,Liability,Treasury,Covered bond funding,Wholesale,EUR,40417726.17,2.0055,Fixed,270,270,Contractual,None,0,100.0,0.0
+POS-00802,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,397534.13,0.15,Variable,30,1,Non-maturity,None,0,5.0,0.0
+POS-00803,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,USD,951988.88,0.5446,Variable,1,1,Non-maturity,None,0,5.0,0.0
+POS-00804,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,289016.0,0.9103,Variable,90,1,Non-maturity,None,0,5.0,0.0
+POS-00805,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,USD,42537.83,1.4762,Variable,1,1,Non-maturity,None,0,5.0,0.0
+POS-00806,2026-06-30,Liability,Retail Banking,Retail term deposits,Retail,EUR,867416.45,1.8671,Fixed,19,19,Contractual,None,0,100.0,0.0
+POS-00807,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,901170.02,1.2122,Variable,180,1,Non-maturity,None,0,5.0,0.0
+POS-00808,2026-06-30,Liability,Retail Banking,Retail term deposits,Retail,EUR,197470.74,1.7241,Fixed,242,242,Contractual,None,0,100.0,0.0
+POS-00809,2026-06-30,Liability,Treasury,Wholesale funding,Wholesale,USD,34606635.57,4.1454,Fixed,947,947,Contractual,None,0,100.0,0.0
+POS-00810,2026-06-30,Liability,Treasury,Wholesale funding,Wholesale,CHF,11647390.66,3.7291,Fixed,143,143,Contractual,None,0,100.0,0.0
+POS-00811,2026-06-30,Liability,Corporate Banking,Corporate deposits,Corporate,EUR,16054282.17,1.6664,Variable,1,1,Non-maturity,None,0,25.0,0.0
+POS-00812,2026-06-30,Liability,Commercial Banking,SME operational deposits,SME,EUR,2964644.78,2.3007,Variable,180,1,Non-maturity,None,0,10.0,0.0
+POS-00813,2026-06-30,Liability,Corporate Banking,Corporate deposits,Corporate,USD,6590684.79,2.2827,Variable,365,1,Non-maturity,None,0,25.0,0.0
+POS-00814,2026-06-30,Liability,Corporate Banking,Corporate deposits,Corporate,EUR,7279327.57,0.8147,Variable,90,1,Non-maturity,None,0,25.0,0.0
+POS-00815,2026-06-30,Liability,Treasury,Covered bond funding,Wholesale,EUR,35633442.82,4.5962,Fixed,1821,1821,Contractual,None,0,100.0,0.0
+POS-00816,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,823995.11,1.1835,Variable,30,1,Non-maturity,None,0,5.0,0.0
+POS-00817,2026-06-30,Liability,Retail Banking,Retail term deposits,Retail,EUR,1285706.53,2.4595,Fixed,254,254,Contractual,None,0,100.0,0.0
+POS-00818,2026-06-30,Liability,Treasury,Interbank borrowing,Financial institution,EUR,24435740.22,4.2185,Variable,180,153,Contractual,None,0,100.0,0.0
+POS-00819,2026-06-30,Liability,Corporate Banking,Corporate deposits,Corporate,EUR,16592676.77,2.5233,Variable,90,1,Non-maturity,None,0,25.0,0.0
+POS-00820,2026-06-30,Liability,Treasury,Wholesale funding,Wholesale,EUR,33858226.64,4.1271,Fixed,908,908,Contractual,None,0,100.0,0.0
+POS-00821,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,423787.47,1.1251,Variable,30,1,Non-maturity,None,0,5.0,0.0
+POS-00822,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,620836.6,0.5371,Variable,1,1,Non-maturity,None,0,5.0,0.0
+POS-00823,2026-06-30,Liability,Commercial Banking,SME operational deposits,SME,EUR,1793241.43,0.4972,Variable,1,1,Non-maturity,None,0,10.0,0.0
+POS-00824,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,1096159.58,1.1389,Variable,365,1,Non-maturity,None,0,5.0,0.0
+POS-00825,2026-06-30,Liability,Treasury,Wholesale funding,Wholesale,EUR,34652666.27,2.521,Fixed,224,224,Contractual,None,0,100.0,0.0
+POS-00826,2026-06-30,Liability,Treasury,Wholesale funding,Wholesale,EUR,26057559.15,2.5255,Fixed,151,151,Contractual,None,0,100.0,0.0
+POS-00827,2026-06-30,Liability,Commercial Banking,SME operational deposits,SME,EUR,4077433.42,1.388,Variable,180,1,Non-maturity,None,0,10.0,0.0
+POS-00828,2026-06-30,Liability,Commercial Banking,SME operational deposits,SME,EUR,5638839.9,0.6203,Variable,365,1,Non-maturity,None,0,10.0,0.0
+POS-00829,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,542537.86,1.7244,Variable,180,1,Non-maturity,None,0,5.0,0.0
+POS-00830,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,165768.44,2.0368,Variable,180,1,Non-maturity,None,0,5.0,0.0
+POS-00831,2026-06-30,Liability,Commercial Banking,SME operational deposits,SME,EUR,3906043.81,1.1931,Variable,365,1,Non-maturity,None,0,10.0,0.0
+POS-00832,2026-06-30,Liability,Corporate Banking,Corporate deposits,Corporate,EUR,5345405.32,1.9226,Variable,30,1,Non-maturity,None,0,25.0,0.0
+POS-00833,2026-06-30,Liability,Corporate Banking,Corporate deposits,Corporate,EUR,4328914.82,1.9245,Variable,180,1,Non-maturity,None,0,25.0,0.0
+POS-00834,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,119804.82,0.126,Variable,180,1,Non-maturity,None,0,5.0,0.0
+POS-00835,2026-06-30,Liability,Treasury,Wholesale funding,Wholesale,EUR,37914715.57,2.7645,Fixed,640,640,Contractual,None,0,100.0,0.0
+POS-00836,2026-06-30,Liability,Treasury,Wholesale funding,Wholesale,EUR,19164214.28,3.1641,Fixed,945,945,Contractual,None,0,100.0,0.0
+POS-00837,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,204938.28,0.6222,Variable,365,1,Non-maturity,None,0,5.0,0.0
+POS-00838,2026-06-30,Liability,Corporate Banking,Corporate deposits,Corporate,EUR,11754265.86,0.6169,Variable,30,1,Non-maturity,None,0,25.0,0.0
+POS-00839,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,GBP,894490.5,0.8055,Variable,90,1,Non-maturity,None,0,5.0,0.0
+POS-00840,2026-06-30,Liability,Treasury,Interbank borrowing,Financial institution,EUR,14708965.27,5.1079,Variable,1,139,Contractual,None,0,100.0,0.0
+POS-00841,2026-06-30,Liability,Treasury,Wholesale funding,Wholesale,EUR,39132697.16,2.6228,Fixed,558,558,Contractual,None,0,100.0,0.0
+POS-00842,2026-06-30,Liability,Treasury,Wholesale funding,Wholesale,EUR,20900282.14,2.8327,Fixed,79,79,Contractual,None,0,100.0,0.0
+POS-00843,2026-06-30,Liability,Treasury,Covered bond funding,Wholesale,EUR,23590426.03,3.8209,Fixed,568,568,Contractual,None,0,100.0,0.0
+POS-00844,2026-06-30,Liability,Treasury,Interbank borrowing,Financial institution,EUR,12244181.14,3.913,Variable,365,105,Contractual,None,0,100.0,0.0
+POS-00845,2026-06-30,Liability,Corporate Banking,Corporate deposits,Corporate,CHF,4830992.74,1.6892,Variable,30,1,Non-maturity,None,0,25.0,0.0
+POS-00846,2026-06-30,Liability,Retail Banking,Retail term deposits,Retail,EUR,1093270.44,2.8957,Fixed,57,57,Contractual,None,0,100.0,0.0
+POS-00847,2026-06-30,Liability,Treasury,Wholesale funding,Wholesale,EUR,25878013.55,3.6026,Fixed,354,354,Contractual,None,0,100.0,0.0
+POS-00848,2026-06-30,Liability,Corporate Banking,Corporate deposits,Corporate,EUR,4709631.22,2.5245,Variable,180,1,Non-maturity,None,0,25.0,0.0
+POS-00849,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,USD,515061.08,2.0848,Variable,30,1,Non-maturity,None,0,5.0,0.0
+POS-00850,2026-06-30,Liability,Retail Banking,Retail term deposits,Retail,CHF,1588114.77,1.3175,Fixed,233,233,Contractual,None,0,100.0,0.0
+POS-00851,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,713523.62,0.3626,Variable,365,1,Non-maturity,None,0,5.0,0.0
+POS-00852,2026-06-30,Liability,Treasury,Wholesale funding,Wholesale,EUR,13678783.48,2.7095,Fixed,168,168,Contractual,None,0,100.0,0.0
+POS-00853,2026-06-30,Liability,Treasury,Wholesale funding,Wholesale,EUR,41583508.63,2.9492,Fixed,573,573,Contractual,None,0,100.0,0.0
+POS-00854,2026-06-30,Liability,Retail Banking,Retail term deposits,Retail,USD,950796.6,3.4308,Fixed,169,169,Contractual,None,0,100.0,0.0
+POS-00855,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,USD,351926.33,0.427,Variable,180,1,Non-maturity,None,0,5.0,0.0
+POS-00856,2026-06-30,Liability,Treasury,Wholesale funding,Wholesale,EUR,41786522.37,3.7485,Fixed,292,292,Contractual,None,0,100.0,0.0
+POS-00857,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,GBP,399628.87,1.628,Variable,90,1,Non-maturity,None,0,5.0,0.0
+POS-00858,2026-06-30,Liability,Commercial Banking,SME operational deposits,SME,EUR,2722610.16,1.8826,Variable,1,1,Non-maturity,None,0,10.0,0.0
+POS-00859,2026-06-30,Liability,Treasury,Interbank borrowing,Financial institution,GBP,12790533.04,2.6909,Variable,1,83,Contractual,None,0,100.0,0.0
+POS-00860,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,GBP,743001.14,0.3213,Variable,1,1,Non-maturity,None,0,5.0,0.0
+POS-00861,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,USD,815408.53,1.9604,Variable,180,1,Non-maturity,None,0,5.0,0.0
+POS-00862,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,1184454.23,0.248,Variable,30,1,Non-maturity,None,0,5.0,0.0
+POS-00863,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,GBP,314529.7,1.7925,Variable,180,1,Non-maturity,None,0,5.0,0.0
+POS-00864,2026-06-30,Liability,Treasury,Interbank borrowing,Financial institution,USD,20049437.72,3.2447,Variable,365,10,Contractual,None,0,100.0,0.0
+POS-00865,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,866296.95,0.2683,Variable,30,1,Non-maturity,None,0,5.0,0.0
+POS-00866,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,174652.28,1.9572,Variable,180,1,Non-maturity,None,0,5.0,0.0
+POS-00867,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,1108150.87,0.4799,Variable,90,1,Non-maturity,None,0,5.0,0.0
+POS-00868,2026-06-30,Liability,Treasury,Wholesale funding,Wholesale,EUR,23329573.73,4.7228,Fixed,635,635,Contractual,None,0,100.0,0.0
+POS-00869,2026-06-30,Liability,Treasury,Wholesale funding,Wholesale,EUR,36053407.52,2.4703,Fixed,528,528,Contractual,None,0,100.0,0.0
+POS-00870,2026-06-30,Liability,Treasury,Interbank borrowing,Financial institution,EUR,7278182.6,3.2841,Variable,365,79,Contractual,None,0,100.0,0.0
+POS-00871,2026-06-30,Liability,Treasury,Covered bond funding,Wholesale,USD,22639474.23,2.5249,Fixed,413,413,Contractual,None,0,100.0,0.0
+POS-00872,2026-06-30,Liability,Retail Banking,Retail term deposits,Retail,EUR,1056593.7,2.4822,Fixed,336,336,Contractual,None,0,100.0,0.0
+POS-00873,2026-06-30,Liability,Treasury,Wholesale funding,Wholesale,EUR,17041877.41,3.3225,Fixed,132,132,Contractual,None,0,100.0,0.0
+POS-00874,2026-06-30,Liability,Retail Banking,Retail term deposits,Retail,EUR,322470.65,3.0221,Fixed,277,277,Contractual,None,0,100.0,0.0
+POS-00875,2026-06-30,Liability,Retail Banking,Retail term deposits,Retail,USD,1774990.45,1.3819,Fixed,484,484,Contractual,None,0,100.0,0.0
+POS-00876,2026-06-30,Liability,Corporate Banking,Corporate deposits,Corporate,EUR,15876080.37,1.6576,Variable,365,1,Non-maturity,None,0,25.0,0.0
+POS-00877,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,922069.14,1.4557,Variable,90,1,Non-maturity,None,0,5.0,0.0
+POS-00878,2026-06-30,Liability,Commercial Banking,SME operational deposits,SME,EUR,4237411.22,1.5881,Variable,30,1,Non-maturity,None,0,10.0,0.0
+POS-00879,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,491913.91,0.4509,Variable,1,1,Non-maturity,None,0,5.0,0.0
+POS-00880,2026-06-30,Liability,Treasury,Covered bond funding,Wholesale,EUR,16512704.66,4.2306,Fixed,375,375,Contractual,None,0,100.0,0.0
+POS-00881,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,1030575.7,0.2483,Variable,180,1,Non-maturity,None,0,5.0,0.0
+POS-00882,2026-06-30,Liability,Treasury,Wholesale funding,Wholesale,EUR,22927631.07,2.4188,Fixed,1072,1072,Contractual,None,0,100.0,0.0
+POS-00883,2026-06-30,Liability,Retail Banking,Retail term deposits,Retail,EUR,1001810.22,2.0582,Fixed,459,459,Contractual,None,0,100.0,0.0
+POS-00884,2026-06-30,Liability,Treasury,Interbank borrowing,Financial institution,EUR,20398682.59,4.1764,Variable,365,65,Contractual,None,0,100.0,0.0
+POS-00885,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,434014.81,1.7815,Variable,180,1,Non-maturity,None,0,5.0,0.0
+POS-00886,2026-06-30,Liability,Retail Banking,Retail term deposits,Retail,EUR,585001.37,2.668,Fixed,551,551,Contractual,None,0,100.0,0.0
+POS-00887,2026-06-30,Liability,Retail Banking,Retail term deposits,Retail,USD,931886.52,2.0514,Fixed,401,401,Contractual,None,0,100.0,0.0
+POS-00888,2026-06-30,Liability,Treasury,Wholesale funding,Wholesale,EUR,24822028.82,2.5148,Fixed,808,808,Contractual,None,0,100.0,0.0
+POS-00889,2026-06-30,Liability,Treasury,Wholesale funding,Wholesale,EUR,41019284.03,3.5558,Fixed,108,108,Contractual,None,0,100.0,0.0
+POS-00890,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,CHF,149329.66,0.4531,Variable,365,1,Non-maturity,None,0,5.0,0.0
+POS-00891,2026-06-30,Liability,Commercial Banking,SME operational deposits,SME,EUR,4722754.73,0.7631,Variable,30,1,Non-maturity,None,0,10.0,0.0
+POS-00892,2026-06-30,Liability,Retail Banking,Retail term deposits,Retail,EUR,1387888.69,2.7118,Fixed,566,566,Contractual,None,0,100.0,0.0
+POS-00893,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,240181.91,1.9854,Variable,90,1,Non-maturity,None,0,5.0,0.0
+POS-00894,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,USD,554898.11,1.3422,Variable,90,1,Non-maturity,None,0,5.0,0.0
+POS-00895,2026-06-30,Liability,Treasury,Covered bond funding,Wholesale,EUR,58065332.48,3.3428,Fixed,1186,1186,Contractual,None,0,100.0,0.0
+POS-00896,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,967780.87,1.203,Variable,180,1,Non-maturity,None,0,5.0,0.0
+POS-00897,2026-06-30,Liability,Corporate Banking,Corporate deposits,Corporate,EUR,4814577.42,1.1317,Variable,365,1,Non-maturity,None,0,25.0,0.0
+POS-00898,2026-06-30,Liability,Treasury,Wholesale funding,Wholesale,EUR,4415784.24,3.1215,Fixed,207,207,Contractual,None,0,100.0,0.0
+POS-00899,2026-06-30,Liability,Corporate Banking,Corporate deposits,Corporate,EUR,3560954.1,2.2941,Variable,30,1,Non-maturity,None,0,25.0,0.0
+POS-00900,2026-06-30,Liability,Retail Banking,Retail current deposits,Retail,EUR,352284.42,0.8821,Variable,180,1,Non-maturity,None,0,5.0,0.0

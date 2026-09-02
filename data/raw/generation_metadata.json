@@ -1,0 +1,9 @@
+{
+  "dataset_type": "synthetic",
+  "seed": 20260902,
+  "as_of_date": "2026-06-30",
+  "position_count": 900,
+  "rate_observation_count": 72,
+  "scenario_count": 5,
+  "contains_real_customer_data": false
+}
