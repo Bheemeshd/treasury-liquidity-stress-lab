@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540">
+<style>text{font-family:Inter,Arial,sans-serif;fill:#dbeafe}.axis{stroke:#64748b;stroke-width:1}.grid{stroke:#334155;stroke-width:1}.small{font-size:12px}.label{font-size:14px}.title{font-size:24px;font-weight:700}.subtitle{font-size:13px;fill:#94a3b8}</style>
+<rect width="960" height="540" fill="#0f172a" rx="16"/>
+<text x="52" y="44" class="title">Post-buffer cumulative cash-flow gap</text>
+<text x="52" y="67" class="subtitle">Synthetic portfolio · educational analytics · EUR</text>
+<line x1="90" y1="450.0" x2="910" y2="450.0" class="grid"/>
+<text x="80" y="454.0" text-anchor="end" class="small">€-1,860m</text>
+<line x1="90" y1="380.0" x2="910" y2="380.0" class="grid"/>
+<text x="80" y="384.0" text-anchor="end" class="small">€-1,418m</text>
+<line x1="90" y1="310.0" x2="910" y2="310.0" class="grid"/>
+<text x="80" y="314.0" text-anchor="end" class="small">€-977m</text>
+<line x1="90" y1="240.0" x2="910" y2="240.0" class="grid"/>
+<text x="80" y="244.0" text-anchor="end" class="small">€-536m</text>
+<line x1="90" y1="170.0" x2="910" y2="170.0" class="grid"/>
+<text x="80" y="174.0" text-anchor="end" class="small">€-94m</text>
+<line x1="90" y1="100.0" x2="910" y2="100.0" class="grid"/>
+<text x="80" y="104.0" text-anchor="end" class="small">€347m</text>
+<line x1="90" y1="155.1" x2="910" y2="155.1" stroke="#f8fafc" stroke-dasharray="5 5"/>
+<circle cx="90.0" cy="100.0" r="4" fill="#38bdf8"/>
+<circle cx="254.0" cy="113.5" r="4" fill="#38bdf8"/>
+<circle cx="418.0" cy="127.7" r="4" fill="#38bdf8"/>
+<circle cx="582.0" cy="153.0" r="4" fill="#38bdf8"/>
+<circle cx="746.0" cy="207.0" r="4" fill="#38bdf8"/>
+<circle cx="910.0" cy="315.4" r="4" fill="#38bdf8"/>
+<polyline points="90.0,100.0 254.0,113.5 418.0,127.7 582.0,153.0 746.0,207.0 910.0,315.4" fill="none" stroke="#38bdf8" stroke-width="3"/>
+<rect x="130" y="82" width="12" height="4" fill="#38bdf8"/>
+<text x="148" y="87" class="small">baseline</text>
+<circle cx="90.0" cy="100.8" r="4" fill="#22c55e"/>
+<circle cx="254.0" cy="114.3" r="4" fill="#22c55e"/>
+<circle cx="418.0" cy="128.5" r="4" fill="#22c55e"/>
+<circle cx="582.0" cy="153.8" r="4" fill="#22c55e"/>
+<circle cx="746.0" cy="207.8" r="4" fill="#22c55e"/>
+<circle cx="910.0" cy="316.2" r="4" fill="#22c55e"/>
+<polyline points="90.0,100.8 254.0,114.3 418.0,128.5 582.0,153.8 746.0,207.8 910.0,316.2" fill="none" stroke="#22c55e" stroke-width="3"/>
+<rect x="285" y="82" width="12" height="4" fill="#22c55e"/>
+<text x="303" y="87" class="small">rate_up_200bp</text>
+<circle cx="90.0" cy="106.0" r="4" fill="#f59e0b"/>
+<circle cx="254.0" cy="120.2" r="4" fill="#f59e0b"/>
+<circle cx="418.0" cy="136.0" r="4" fill="#f59e0b"/>
+<circle cx="582.0" cy="164.3" r="4" fill="#f59e0b"/>
+<circle cx="746.0" cy="220.6" r="4" fill="#f59e0b"/>
+<circle cx="910.0" cy="347.3" r="4" fill="#f59e0b"/>
+<polyline points="90.0,106.0 254.0,120.2 418.0,136.0 582.0,164.3 746.0,220.6 910.0,347.3" fill="none" stroke="#f59e0b" stroke-width="3"/>
+<rect x="440" y="82" width="12" height="4" fill="#f59e0b"/>
+<text x="458" y="87" class="small">retail_run</text>
+<circle cx="90.0" cy="150.4" r="4" fill="#a78bfa"/>
+<circle cx="254.0" cy="164.9" r="4" fill="#a78bfa"/>
+<circle cx="418.0" cy="181.5" r="4" fill="#a78bfa"/>
+<circle cx="582.0" cy="211.2" r="4" fill="#a78bfa"/>
+<circle cx="746.0" cy="268.8" r="4" fill="#a78bfa"/>
+<circle cx="910.0" cy="404.6" r="4" fill="#a78bfa"/>
+<polyline points="90.0,150.4 254.0,164.9 418.0,181.5 582.0,211.2 746.0,268.8 910.0,404.6" fill="none" stroke="#a78bfa" stroke-width="3"/>
+<rect x="595" y="82" width="12" height="4" fill="#a78bfa"/>
+<text x="613" y="87" class="small">wholesale_freeze</text>
+<circle cx="90.0" cy="157.0" r="4" fill="#f43f5e"/>
+<circle cx="254.0" cy="172.5" r="4" fill="#f43f5e"/>
+<circle cx="418.0" cy="191.6" r="4" fill="#f43f5e"/>
+<circle cx="582.0" cy="225.6" r="4" fill="#f43f5e"/>
+<circle cx="746.0" cy="286.7" r="4" fill="#f43f5e"/>
+<circle cx="910.0" cy="450.0" r="4" fill="#f43f5e"/>
+<polyline points="90.0,157.0 254.0,172.5 418.0,191.6 582.0,225.6 746.0,286.7 910.0,450.0" fill="none" stroke="#f43f5e" stroke-width="3"/>
+<rect x="750" y="82" width="12" height="4" fill="#f43f5e"/>
+<text x="768" y="87" class="small">combined_severe</text>
+<text x="90.0" y="475" text-anchor="middle" class="small">0-7d</text>
+<text x="254.0" y="475" text-anchor="middle" class="small">8-30d</text>
+<text x="418.0" y="475" text-anchor="middle" class="small">31-90d</text>
+<text x="582.0" y="475" text-anchor="middle" class="small">91-180d</text>
+<text x="746.0" y="475" text-anchor="middle" class="small">181-365d</text>
+<text x="910.0" y="475" text-anchor="middle" class="small">&gt;365d</text>
+<text x="52" y="510" class="subtitle">Cumulative stressed gap plus scenario-adjusted eligible liquidity buffer.</text>
+</svg>

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540">
+<style>text{font-family:Inter,Arial,sans-serif;fill:#dbeafe}.axis{stroke:#64748b;stroke-width:1}.grid{stroke:#334155;stroke-width:1}.small{font-size:12px}.label{font-size:14px}.title{font-size:24px;font-weight:700}.subtitle{font-size:13px;fill:#94a3b8}</style>
+<rect width="960" height="540" fill="#0f172a" rx="16"/>
+<text x="52" y="44" class="title">One-year NII sensitivity</text>
+<text x="52" y="67" class="subtitle">Synthetic portfolio · educational analytics · EUR</text>
+<line x1="90" y1="450.0" x2="910" y2="450.0" class="grid"/>
+<text x="80" y="454.0" text-anchor="end" class="small">0m</text>
+<line x1="90" y1="380.0" x2="910" y2="380.0" class="grid"/>
+<text x="80" y="384.0" text-anchor="end" class="small">4m</text>
+<line x1="90" y1="310.0" x2="910" y2="310.0" class="grid"/>
+<text x="80" y="314.0" text-anchor="end" class="small">8m</text>
+<line x1="90" y1="240.0" x2="910" y2="240.0" class="grid"/>
+<text x="80" y="244.0" text-anchor="end" class="small">13m</text>
+<line x1="90" y1="170.0" x2="910" y2="170.0" class="grid"/>
+<text x="80" y="174.0" text-anchor="end" class="small">17m</text>
+<line x1="90" y1="100.0" x2="910" y2="100.0" class="grid"/>
+<text x="80" y="104.0" text-anchor="end" class="small">21m</text>
+<line x1="90" y1="450.0" x2="910" y2="450.0" stroke="#f8fafc" stroke-dasharray="6 6"/>
+<text x="910" y="443.0" text-anchor="end" class="small">reference 0m</text>
+<rect x="116.2" y="450.0" width="111.5" height="1.0" rx="5" fill="#38bdf8"/>
+<text x="172.0" y="442.0" text-anchor="middle" class="small">0.0m</text>
+<text x="172.0" y="475" text-anchor="middle" class="small">Baseline</text>
+<rect x="280.2" y="100.0" width="111.5" height="350.0" rx="5" fill="#22c55e"/>
+<text x="336.0" y="92.0" text-anchor="middle" class="small">20.9m</text>
+<text x="336.0" y="475" text-anchor="middle" class="small">Rates</text>
+<text x="336.0" y="490" text-anchor="middle" class="small">+200 bps</text>
+<rect x="444.2" y="372.5" width="111.5" height="77.5" rx="5" fill="#f59e0b"/>
+<text x="500.0" y="364.5" text-anchor="middle" class="small">4.6m</text>
+<text x="500.0" y="475" text-anchor="middle" class="small">Retail</text>
+<text x="500.0" y="490" text-anchor="middle" class="small">Deposit Run</text>
+<rect x="608.2" y="311.6" width="111.5" height="138.4" rx="5" fill="#a78bfa"/>
+<text x="664.0" y="303.6" text-anchor="middle" class="small">8.3m</text>
+<text x="664.0" y="475" text-anchor="middle" class="small">Wholesale</text>
+<text x="664.0" y="490" text-anchor="middle" class="small">Funding Freeze</text>
+<rect x="772.2" y="185.8" width="111.5" height="264.2" rx="5" fill="#f43f5e"/>
+<text x="828.0" y="177.8" text-anchor="middle" class="small">15.8m</text>
+<text x="828.0" y="475" text-anchor="middle" class="small">Combined</text>
+<text x="828.0" y="490" text-anchor="middle" class="small">Severe</text>
+<line x1="90" y1="450.0" x2="910" y2="450.0" class="axis"/>
+<text x="52" y="510" class="subtitle">Figures are portfolio-model outputs, not regulatory disclosures.</text>
+</svg>
