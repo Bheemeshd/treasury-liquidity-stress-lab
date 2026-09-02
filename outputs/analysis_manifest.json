@@ -1,0 +1,8 @@
+{
+  "portfolio_positions": 900,
+  "scenarios_analyzed": 5,
+  "cashflow_gap_rows": 30,
+  "market_rate_observations": 72,
+  "synthetic_data_only": true,
+  "regulatory_reporting": false
+}

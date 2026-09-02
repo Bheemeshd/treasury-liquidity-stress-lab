@@ -1,0 +1,51 @@
+side,product,currency,position_count,principal_eur,side_share_pct,weighted_rate_pct
+Asset,Cash & central-bank reserves,EUR,9,102805657.38,2.84,2.4
+Asset,Cash & central-bank reserves,USD,5,39731655.79,1.1,2.37
+Asset,Corporate loans,CHF,5,54349005.93,1.5,5.8
+Asset,Corporate loans,EUR,113,1692623754.17,46.75,4.67
+Asset,Corporate loans,GBP,8,122328951.29,3.38,5.08
+Asset,Corporate loans,USD,14,197738473.38,5.46,4.41
+Asset,Covered bonds,CHF,2,13827113.2,0.38,3.98
+Asset,Covered bonds,EUR,9,38821285.16,1.07,3.23
+Asset,Covered bonds,GBP,1,3987705.0,0.11,4.35
+Asset,Interbank placements,EUR,42,318329181.08,8.79,3.97
+Asset,Interbank placements,GBP,2,15898382.15,0.44,4.9
+Asset,Interbank placements,USD,2,10502611.45,0.29,3.86
+Asset,Retail mortgages,CHF,5,1525514.3,0.04,3.35
+Asset,Retail mortgages,EUR,91,41523242.32,1.15,4.12
+Asset,Retail mortgages,GBP,4,1840485.2,0.05,4.57
+Asset,Retail mortgages,USD,15,8290344.19,0.23,3.87
+Asset,SME loans,CHF,2,10479497.23,0.29,6.88
+Asset,SME loans,EUR,94,499952010.82,13.81,5.35
+Asset,SME loans,GBP,4,26911672.77,0.74,5.43
+Asset,SME loans,USD,12,63245401.52,1.75,5.1
+Asset,Sovereign bonds,CHF,4,27176077.99,0.75,3.03
+Asset,Sovereign bonds,EUR,39,292564863.66,8.08,2.99
+Asset,Sovereign bonds,GBP,2,19804304.45,0.55,4.05
+Asset,Sovereign bonds,USD,2,16258898.55,0.45,2.81
+Liability,Corporate deposits,CHF,5,41936559.59,1.12,2.17
+Liability,Corporate deposits,EUR,41,383702894.17,10.24,1.7
+Liability,Corporate deposits,GBP,3,31300101.77,0.84,1.55
+Liability,Corporate deposits,USD,8,57321524.7,1.53,1.72
+Liability,Covered bond funding,EUR,23,974182396.18,26.0,3.32
+Liability,Covered bond funding,USD,3,95323875.19,2.54,2.45
+Liability,Interbank borrowing,CHF,1,13162708.99,0.35,4.79
+Liability,Interbank borrowing,EUR,19,269015825.57,7.18,4.33
+Liability,Interbank borrowing,GBP,1,12790533.04,0.34,2.69
+Liability,Interbank borrowing,USD,2,22598641.81,0.6,3.39
+Liability,Retail current deposits,CHF,6,2688207.94,0.07,1.1
+Liability,Retail current deposits,EUR,89,53669724.16,1.43,0.97
+Liability,Retail current deposits,GBP,8,5532557.05,0.15,0.91
+Liability,Retail current deposits,USD,22,12080890.88,0.32,1.26
+Liability,Retail term deposits,CHF,4,3897373.08,0.1,2.49
+Liability,Retail term deposits,EUR,47,43535753.76,1.16,2.35
+Liability,Retail term deposits,GBP,3,2010673.8,0.05,1.96
+Liability,Retail term deposits,USD,8,6973142.34,0.19,2.02
+Liability,SME operational deposits,CHF,3,8112639.27,0.22,0.7
+Liability,SME operational deposits,EUR,43,127984935.27,3.42,1.36
+Liability,SME operational deposits,GBP,3,7902761.21,0.21,1.46
+Liability,SME operational deposits,USD,8,26427461.69,0.71,1.68
+Liability,Wholesale funding,CHF,4,68516321.88,1.83,4.52
+Liability,Wholesale funding,EUR,52,1263832970.29,33.72,3.26
+Liability,Wholesale funding,GBP,2,61444325.77,1.64,4.27
+Liability,Wholesale funding,USD,6,151585955.15,4.04,4.2
